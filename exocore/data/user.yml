@@ -11,15 +11,15 @@ profile_link: /
 
 
 # The user image displayed on your profile card. You can edit this by dropping an image with the name 'pfp.png' into 'assets/imgs', or editing the path below:
-profile_pic: assets/imgs/pfp.png
+profile_pic: https://cdn.discordapp.com/attachments/1084193434526548019/1122661050970546248/image.png
 
 
 # The header that will be displayed on your homepage:
-welcome_header: Welcome to the Exocore
+welcome_header: Ludus Temporis Lineae
 
 
 # The subtitle to the above header on your homepage:
-welcome_subtitle: A navigable, organised hypertext personal knowledge base
+welcome_subtitle: The Home for Timeline Game
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
