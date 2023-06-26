@@ -5,7 +5,7 @@ title: Home
 
 # The Timeline Game Exocore
 
-[![](/images/exocore.png)](/articles/exocore%20installation%20instructions/)
+[![](https://dl.openseauserdata.com/cache/originImage/files/b7079ae601000e835a3dc6f3a539fdb9.png)]
 
 ## About this site
 
