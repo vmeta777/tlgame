@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_articles/table test.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_articles/table test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_articles/table test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md"
+                "file": "_articles/table test.md"
               }
             }
           },
@@ -166,6 +166,12 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "_articles/Writing with Exocore Syntax.md",
+    "_articles/Using your Exocore.md",
+    "_articles/Underpinnings of the Exocore.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/Set up a Custom Domain.md",
     "_articles/The Exocore Package.md",
     "_articles/table test.md",
     "_wiki/The Original Posts.md",
@@ -175,13 +181,10 @@
     "_daily/2022-05-11.md",
     "_daily/2023-06-25.md",
     "_daily/2023-06-23.md",
-    "_articles/Configure Exocore for Personal Use.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
     "_daily/2022-10-23.md"
   ]
