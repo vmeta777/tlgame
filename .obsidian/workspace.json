@@ -11,9 +11,11 @@
             "id": "d0c69a70baee1f62",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_site/assets/favicon/favicon-16x16.png"
+                "file": "_journal/exocore-workflow.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/assets/favicon/favicon-16x16.png",
+                "file": "_journal/exocore-workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/assets/favicon/favicon-16x16.png",
+                "file": "_journal/exocore-workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/assets/favicon/favicon-16x16.png"
+                "file": "_journal/exocore-workflow.md"
               }
             }
           },
@@ -164,6 +166,11 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "_journal/Jade post.md",
+    "_journal/korean-ginseng-chicken-soup.md",
+    "index.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
     "_site/assets/favicon/apple-touch-icon.png",
     "_site/assets/favicon/New folder/apple-touch-icon.png",
@@ -173,11 +180,8 @@
     "_site/assets/favicon/New folder/android-chrome-512x512.png",
     "_site/assets/favicon/512x512 quill.png",
     "_site/assets/favicon/favicon-32x32.png",
-    "_site/assets/favicon/New folder/favicon-32x32.png",
-    "_site/assets/favicon/32x32 quill.png",
     "_site/assets/favicon/New folder/favicon.ico",
     "_site/assets/favicon/New folder",
-    "index.md",
     "_daily/2023-06-26.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/table test.md",
@@ -194,7 +198,6 @@
     "_daily/2022-05-11.md",
     "_daily/2023-06-25.md",
     "_daily/2023-06-23.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_daily/2022-10-25.md",
