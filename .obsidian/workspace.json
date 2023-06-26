@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/table test.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/table test.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/table test.md",
+                "file": "_articles/Configure Exocore for Personal Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/table test.md"
+                "file": "_articles/Configure Exocore for Personal Use.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "_articles/The Exocore Package.md",
+    "_articles/table test.md",
     "_wiki/The Original Posts.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
@@ -177,7 +179,6 @@
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
-    "_articles/table test.md",
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
