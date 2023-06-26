@@ -23,7 +23,7 @@ welcome_subtitle: The Home for Timeline Game
 
 
 # Include the Viral Public License at the bottom of your posts (Accepts true/false). Read more about the VPL at https://viralpubliclicense.org.
-include_license: true 
+include_license: false 
 
 # Change the glyph used for the 'next/previous' buttons at the top of each post
 next_button: ">>"
