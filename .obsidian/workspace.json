@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Jade post.md",
+                "file": "_site/readme.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Jade post.md",
+                "file": "_site/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Jade post.md",
+                "file": "_site/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Jade post.md"
+                "file": "_site/readme.md"
               }
             }
           },
@@ -166,13 +166,14 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "index.md",
+    "_patchnotes/2023-06-26.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Development of Timeline Game.md",
     "_wiki/Factions of Timeline Game.md",
     "_wiki/The Original Posts.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
-    "_daily/2023-06-26.md",
     "_site/assets/imgs/born to post.png",
     "assets/imgs/born to post.png",
     "_articles/Artists of Timeline Game.md",
@@ -192,7 +193,6 @@
     "_articles/table test.md",
     "_journal/Jade post.md",
     "_journal/korean-ginseng-chicken-soup.md",
-    "index.md",
     "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
