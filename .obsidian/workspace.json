@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_wiki/usufruct.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_wiki/usufruct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md",
+                "file": "_wiki/usufruct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Configure Exocore for Personal Use.md"
+                "file": "_wiki/usufruct.md"
               }
             }
           },
@@ -175,11 +175,14 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_journal/Notes on Remilia's New Internet.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "_wiki/The Original Posts.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_daily/2022-05-11.md",
     "_daily/2023-06-25.md",
     "_daily/2023-06-23.md",
-    "_daily/2022-05-11.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_journal/Notes on Remilia's New Internet.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
@@ -187,7 +190,6 @@
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md"
   ]
 }
