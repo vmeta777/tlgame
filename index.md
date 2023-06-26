@@ -7,7 +7,7 @@ title: Home
 
 ![](https://dl.openseauserdata.com/cache/originImage/files/b7079ae601000e835a3dc6f3a539fdb9.png)
 
-## About this site
+## About This Site
 
 This website is a repository of information regarding `"Timeline Game"`, the playable digital card game and NFT Collection from Violet House. It is your source for all information regarding the past, present and future of Timeline Game. 
 
