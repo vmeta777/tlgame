@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/The Development of Timeline Game.md",
+                "file": "_wiki/Factions of Timeline Game.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/The Development of Timeline Game.md",
+                "file": "_wiki/Factions of Timeline Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/The Development of Timeline Game.md",
+                "file": "_wiki/Factions of Timeline Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/The Development of Timeline Game.md"
+                "file": "_wiki/Factions of Timeline Game.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
-    "_journal/Notes on Remilia's New Internet.md",
     "_daily/2023-06-26.md",
+    "_journal/Notes on Remilia's New Internet.md",
     "_articles/Artists of Timeline Game.md",
     "_articles/Story of Timeline Game.md",
     "_wiki/Factions of Timeline Game.md",

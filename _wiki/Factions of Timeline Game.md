@@ -2,7 +2,7 @@
 date: 2023-06-25
 tags: writings, factions
 ---
-# The Original Posts
+# Factions of Timeline Game
 
 # Forest Kingdom - Apes, A.R.C.
 
