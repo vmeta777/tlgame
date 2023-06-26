@@ -2,10 +2,10 @@
 subtitle:
 published: draft
 date: 2022-04-22
-tags: meta exocore computers learning
+tags: 
 ---
 
-# The Exocore Workflow
+# The Development of Timeline Game
 
 {% graphviz %}
 

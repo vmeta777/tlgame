@@ -106,7 +106,7 @@ For more options, check out the 'advanced tables' plugin in the sidebar. This pl
 
 ## Graphviz
 
-For more complex data representation, [Graphviz](https://graphviz.org/) can be used in conjunction with the Exocore. Read more about Graphviz syntax [here](https://graphviz.org/documentation/), and find a demonstration of the way it is used with the Exocore [[The Exocore Workflow|here]].
+For more complex data representation, [Graphviz](https://graphviz.org/) can be used in conjunction with the Exocore. Read more about Graphviz syntax [here](https://graphviz.org/documentation/), and find a demonstration of the way it is used with the Exocore [[The Development of Timeline Game|here]].
 
 
 ## Sidenotes and Footnotes:
