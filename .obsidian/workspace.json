@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/exocore-workflow.md",
+                "file": "_articles/Story of Timeline Game.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/exocore-workflow.md",
+                "file": "_articles/Story of Timeline Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/exocore-workflow.md",
+                "file": "_articles/Story of Timeline Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/exocore-workflow.md"
+                "file": "_articles/Story of Timeline Game.md"
               }
             }
           },
@@ -166,6 +166,24 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "_articles/Artists of Timeline Game.md",
+    "_articles/Story of Timeline Game.md",
+    "_wiki/Factions of Timeline Game.md",
+    "_articles/Grifter's Game.md",
+    "_articles/Rare Pepes.md",
+    "_articles/Special Editions.md",
+    "_articles/archived/Using your Exocore.md",
+    "_articles/archived/Set up a Custom Domain.md",
+    "_articles/archived/Configure Exocore for Personal Use.md",
+    "_articles/archived",
+    "_articles/Mechanics of Timeline Game.md",
+    "_articles/TEMPLATE.md",
+    "_articles/archived/The Exocore Package.md",
+    "_articles/archived/Underpinnings of the Exocore.md",
+    "_articles/archived/Writing with Exocore Syntax.md",
+    "_articles/table test.md",
+    "_wiki/The Original Posts.md",
+    "_journal/The Exocore Workflow.md",
     "_journal/Jade post.md",
     "_journal/korean-ginseng-chicken-soup.md",
     "index.md",
@@ -183,24 +201,9 @@
     "_site/assets/favicon/New folder/favicon.ico",
     "_site/assets/favicon/New folder",
     "_daily/2023-06-26.md",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_articles/table test.md",
-    "_articles/Writing with Exocore Syntax.md",
-    "_articles/Using your Exocore.md",
-    "_articles/Underpinnings of the Exocore.md",
-    "_articles/Exocore Installation Instructions.md",
-    "_articles/Set up a Custom Domain.md",
-    "_articles/The Exocore Package.md",
-    "_wiki/The Original Posts.md",
+    "_articles/archived/Exocore Installation Instructions.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
-    "_wiki/Usufruct.md",
-    "_daily/2022-05-11.md",
-    "_daily/2023-06-25.md",
-    "_daily/2023-06-23.md",
-    "_daily/2022-10-29.md",
-    "_daily/2022-10-27.md",
-    "_daily/2022-10-25.md",
-    "_daily/2022-10-23.md"
+    "_wiki/Usufruct.md"
   ]
 }
