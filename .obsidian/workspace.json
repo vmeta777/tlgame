@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ring.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ring.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ring.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ring.md"
+                "file": "index.md"
               }
             }
           },
@@ -172,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "ring.md",
     "readme.md",
     "index.md",
     "exocore/_templates/_journal.md",
@@ -204,7 +205,6 @@
     "_articles/archived/Underpinnings of the Exocore.md",
     "_articles/archived/Writing with Exocore Syntax.md",
     "_articles/table test.md",
-    "_journal/Jade post.md",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
     "_site/assets/favicon/apple-touch-icon.png",

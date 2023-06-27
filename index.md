@@ -22,7 +22,7 @@ XXXYYY
 
 # OTHER LINKS
 
-![study-monk](/images/study-monk.jpg)
+xxyy
 
 ## Information Pipeline
 
