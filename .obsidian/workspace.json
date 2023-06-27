@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ring.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "c71f34c23c41b2f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "ring.md"
               }
             }
           },
@@ -166,8 +174,13 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "_site/readme.md",
+    "readme.md",
     "index.md",
+    "exocore/_templates/_journal.md",
+    "exocore/_templates/_daily.md",
+    "exocore/_templates/_article.md",
+    "_articles/Artists of Timeline Game.md",
+    "_site/readme.md",
     "_daily/2023-06-26.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Development of Timeline Game.md",
@@ -177,7 +190,6 @@
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
     "assets/imgs/born to post.png",
-    "_articles/Artists of Timeline Game.md",
     "_articles/Story of Timeline Game.md",
     "_articles/Grifter's Game.md",
     "_articles/Rare Pepes.md",
@@ -193,8 +205,6 @@
     "_articles/archived/Writing with Exocore Syntax.md",
     "_articles/table test.md",
     "_journal/Jade post.md",
-    "_journal/korean-ginseng-chicken-soup.md",
-    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
     "_site/assets/favicon/apple-touch-icon.png",
@@ -202,8 +212,6 @@
     "_site/assets/favicon/New folder/android-chrome-192x192.png",
     "_site/assets/favicon/android-chrome-512x512 - Copy.png",
     "_site/assets/favicon/New folder/favicon.ico",
-    "_site/assets/favicon/New folder",
-    "_articles/archived/Exocore Installation Instructions.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md"
+    "_site/assets/favicon/New folder"
   ]
 }
