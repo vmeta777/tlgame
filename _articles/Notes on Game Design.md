@@ -24,9 +24,9 @@ Within each deck in Magic the Gathering, there are "lands". These make up typica
 
 The land system is a restriction which magnifies the complexity of MTG immensely. By making certain cards unplayable without a corresponding land of that color, players are forced to choose which types of cards and lands they will put into their deck. Players often attempt to play multiple different colors, meaning they will need to draw the corresponding lands during the game. In MTG there are many modifications with regard to lands - I.E., lands that do things beyond just letting you play a certain type of card: there are lands that heal you when played, lands that act as "two" or more colors, with certain drawbacks, and so on. 
 
-As you can see, this system becomes very complicated. This depth is part of what has made Magic a global success. There's a world of theorycrafting and optimizing that can be done to make your lands fit your deck. 
+As you can see, this system becomes complex. This depth is part of what has made Magic a global success. There's a world of theorycrafting and optimizing that can be done to make your lands fit your deck. 
 
-It also creates a lot of pain points for new players.
+It also creates a lot of pain points for both new and old players.
 
 There is, for example, a phenomenon known as "mana screw" or, inversely, "mana flooding". Mana screw is when you do not draw the lands needed to play the cards in your hand, or in the case of flooding, when you draw more lands than you need, leaving you with not enough cards to do something with. The color wheel ties into this. While the color wheel keeps players honest and doesn't allow them to use all of the best cards in one deck, trying to push the color wheel and corresponding land system to the limit can create these problems and stop players from having fun. 
 
@@ -44,9 +44,10 @@ Additionally, they encourage players to have decks which allow them to play chea
 
 ### Yu Gi Oh and Discarding the Color Wheel
 
-With the removal of the color wheel, and a standardized mana curve, some requirements had to be reinserted so that the game didn't become too standardized. Yu Gi Oh's use of cards which are required to play other cards were my solution to the color wheel. 
+With the removal of the color wheel, and a standardized mana curve, some requirements had to be reinserted so that the game didn't become too standardized. Without those barriers in place, players are able to use all of the best cards with no restrictions. Yu Gi Oh's use of cards which are required to play other cards were my solution to the color wheel. 
 
-Rather than This works especially well because now that there isn't a 45% chance of a land being the card drawn for each player on any given turn, players now draw "playable" cards which can be built around every turn. 
+Rather than 
+This works especially well because now that there isn't a 45% chance of a land being the card drawn for each player on any given turn, players now draw "playable" cards which can be built around every turn. 
 
 ### Configuring a Domain Purchased Elsewhere
 
