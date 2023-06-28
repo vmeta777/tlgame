@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_daily/2023-06-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_daily/2023-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_daily/2023-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Notes on Game Design.md"
+                "file": "_daily/2023-06-28.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
-    "_articles/Artists of Timeline Game.md",
     "_articles/Notes on Game Design.md",
+    "_daily/2023-06-28.md",
+    "_articles/Artists of Timeline Game.md",
     "_daily/2023-06-27.md",
     "index.md",
     "ring.md",
@@ -204,7 +205,6 @@
     "_articles/Mechanics of Timeline Game.md",
     "_articles/TEMPLATE.md",
     "_articles/archived/The Exocore Package.md",
-    "_articles/archived/Underpinnings of the Exocore.md",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
     "_site/assets/favicon/apple-touch-icon.png",
