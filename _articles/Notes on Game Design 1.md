@@ -42,15 +42,19 @@ This allows a player to reach beyond the "five posts per turn" limit at their ow
 
 The aim of Timeline Game, and in particular the initial release, was to create an enjoyable foundation of a card game which is engaging and somewhat complex on its own, but also simple enough for a beginner to grasp within fifteen minutes of playing. By removing the land system and its corresponding pain points (mana screw/flooding, for example), as well as the color wheel, there are less things for a player to learn, while the Quill system is a simple addition that creates a unique gameplay loop that is foreign to Magic the Gathering and other influences.
 
-### Other Influences
+### Other Influences from Magic the Gathering
 
+I've mentioned some of the major divergences and tweaking with regard to the Land or Resource system and the Color Wheel, which will be discussed again shortly, but there's still some aspects of MTG influence to talk about here.
 
+The pacing and essentially the "spine" of Timeline Game would not exist without Magic the Gathering. While the Land system was stripped down and smoothened out, then further tweaked with the Quill system, much of the gameflow mirrors a simplified form of Magic the Gathering. 
 
+Hit Points or "Life", like in Magic and many TCGs, are also a core part of Timeline. Each player has twenty-five (five more than in Magic), and when you have zero left, you lose the game. The increase is a balance decision. 
 
+By compressing the total resources (posters) to a cap of five and since you get +1 to your resource pool each turn guaranteed, the game can accelerate and get out of hand quickly. The Quill system also contributes to this ramp-up. 
 
+This is intentional, as Timeline is meant to be accessible and played quickly. The idea is for players to play a number of games back to back, I.E. a best of three or a best of five, and for that to ideally take less than an hour or so once both players know what they are doing. 
 
-
-
+With all those factors letting the game accelerate into a more advanced game state compared to most card games, and Magic in particular, adding five life points makes the game last that little bit longer while still being reasonable. There is a lot of power stored in the different synergies of the game's factions and combos, and playing games with twenty life as
 
 
 
