@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Notes on Game Design.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Notes on Game Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Notes on Game Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_articles/Notes on Game Design.md"
               }
             }
           },
@@ -174,13 +174,15 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "_articles/Artists of Timeline Game.md",
+    "_articles/Notes on Game Design.md",
+    "_daily/2023-06-27.md",
+    "index.md",
     "ring.md",
     "readme.md",
-    "index.md",
     "exocore/_templates/_journal.md",
     "exocore/_templates/_daily.md",
     "exocore/_templates/_article.md",
-    "_articles/Artists of Timeline Game.md",
     "_site/readme.md",
     "_daily/2023-06-26.md",
     "_journal/Notes on Remilia's New Internet.md",
@@ -203,8 +205,6 @@
     "_articles/TEMPLATE.md",
     "_articles/archived/The Exocore Package.md",
     "_articles/archived/Underpinnings of the Exocore.md",
-    "_articles/archived/Writing with Exocore Syntax.md",
-    "_articles/table test.md",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
     "_site/assets/favicon/apple-touch-icon.png",
