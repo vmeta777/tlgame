@@ -54,12 +54,31 @@ By compressing the total resources (posters) to a cap of five and since you get 
 
 This is intentional, as Timeline is meant to be accessible and played quickly. The idea is for players to play a number of games back to back, I.E. a best of three or a best of five, and for that to ideally take less than an hour or so once both players know what they are doing. 
 
-With all those factors letting the game accelerate into a more advanced game state compared to most card games, and Magic in particular, adding five life points makes the game last that little bit longer while still being reasonable. There is a lot of power stored in the different synergies of the game's factions and combos, and playing games with twenty life as
+With all those factors accelerating play into a more advanced game state compared to most card games, adding five life points makes the game last that little bit longer while still being reasonable.
 
+`Creature Types` also behave similarly to Magic in Timeline Game. The only main difference is that in Timeline, creatures and perpetual effects such as Pinned Posts are classed as Manifestations, as they are 'manifested' by posts from Posters. These manifestations can be searched from decks and there are many cards that interact with certain types of manifestations. For example, the card `Synchronized Crying` can only be played if there are three manifestations with the "CRYING" type - typically associated with Miladys - on the timeline under the player's control.
 
+https://dl.openseauserdata.com/cache/originImage/files/295b2862f78183929441a9e562e0fcc4.png
 
+Other similarities from Magic including the cadence and phases of play. "Summoning Sickness", wherein creatures can't use their abilities or traditionally attack the turn they are played, also exists in Timeline. There is, however, a slight difference in that many cards are balanced around whether their activated abilities cause that manifestation to "tap" for that turn. If they do, it can't attack or defend until their next turn. There are some variations, where this simply limits a creature from attacking on that turn, while they can still defend on the opponent's turn.
 
+Additionally, where Magic has more phases in each turn, Timeline has fewer, but in a similar configuration. The main difference from Magic is that after the Combat Phase ends in Timeline, that player's turn ends. There is no window for taking actions after Combat prior to the turn ending. Cards can, however be played during the Combat phase before damage resolves. 
 
+Last but not least, there is another mechanic inspired in part by Magic the Gathering, "scheduling posts", which allows a player to pre-pay some of the cost of a card in advance so as to play it later at a lower cost. This is inspired both by the concept of scheduling posts on Twitter and e-mail but also the "Foretell" mechanic from Magic the Gathering's Kaldheim expansion. It functions in a very similar way.
+
+### Yu Gi Oh, Discarding the Color Wheel + Fusion Monsters
+
+As mentioned earlier, the Color Wheel is an important part of Magic the Gathering which helps "keep things real" from a perspective of which cards a player can feasibly add to their deck. Without the Color Wheel, players could play all of the best cards basically freely, and the entire point of the Color Wheel and each color's philosophy would kind of go out the window. The Color Wheel effectively makes players choose how they want to play and stick with it. 
+
+WIthout the Color Wheel - and drawing playable cards each turn rather than a land every other~ turn - we have a form of a game that looks similar to Magic in many respects but is quite different. I turned to Yu Gi Oh and their Fusion Monster system in large part to solve the problem of deck construction and to reinsert an element akin to the Color Wheel.
+
+In Yu Gi Oh, Fusion Summons allow a player to play a Fusion Monster card from an "Extra Deck" by activating a set of cards together. For example, by playing the "Polymerization" card - a catalyst for Fusions - and two specific creatures, a player can bring out a special Fusion of the two creatures from their extra deck on-demand. Because this is typically a trade of three cards for one (Polymerization + Two Creatures), that card is "allowed" to be very strong.
+
+I used the same logic in Timeline Game, but without a Polymerization card as a catalyst. Instead, you have to draw all the pieces of the puzzle and play them in order. If you do so, you often get to keep all three. For example, you need one Radbro card and one of five specific Spirit cards to play Radical Spirit. This can be trickier than it sounds, as the best combination cards can be anticipated, and players have a myriad of "answers" to stop you from achieving this: For example, "Ratio" can be played to stop you from playing a critical piece, your opponent can go on the offensive to force you to block with a critical piece (or to take damage elsewhere as a kind of bluff), a board wipe such as "White Hole" which gets rid of all creatures - or just a card like "Delete" or "Void Nymph" which can remove one chosen target.
+
+If you do get to play these combination cards, they are typically just as susceptible to hard removal such as "Delete" or "Void Nymph" as their puzzle pieces were. These end-result combination cards have a lot of power and synergies, however. 
+
+Radical Spirit, for example, with its "Spirit Bomb" ability, can sacrifice one of the Spirit cards used to get it onto the Timeline and deal 3 damage to any target - and also can still attack that turn. Anyone playing around the Radical Spirit card likely has numerous Spirit cards in their deck, meaning Radical Spirit can often go to town on opponents with this ability.
 
 
 
