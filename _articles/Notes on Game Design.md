@@ -58,7 +58,7 @@ This allows a player to reach beyond the "five posts per turn" limit at their ow
 
 Quill Tokens can therefore be hoarded as a means of keeping tokens and their corresponding effect away from their opponent - by not using them, they are not returned to the pool. Should the pool return to zero, and a player chooses to use four of their tokens (thereby returning them to the pool), upon the next turn it is very likely their opponent will quickly gain possession of all four tokens. It is a type of game within the game which, while relatively simple, can easily decide the outcome of a match and demands attention.
 
-The aim of Timeline Game, and in particular the initial release, was to create an enjoyable foundation of a card game which is engaging and complex, but also simple enough for a beginner to grasp within fifteen minutes of playing. By removing the land system and its corresponding pain points (mana screw/flooding, for example), as well as the color wheel, there are less things for a player to learn, while the Quill system is a simple addition that creates a unique gameplay loop that is foreign to Magic the Gathering and other influences.
+The aim of Timeline Game, and in particular the initial release, was to create an enjoyable foundation of a card game which is engaging and complex, but also simple enough for a beginner to grasp within fifteen-to-thirty minutes of playing. By removing the land system and its corresponding pain points (mana screw/flooding, for example), as well as the color wheel, there are less things for a player to learn, while the Quill system is a simple addition that creates a unique gameplay loop that is foreign to Magic the Gathering and other influences.
 
 ### Other Influences from Magic the Gathering
 
@@ -92,7 +92,7 @@ There is, however, a slight difference in that many cards are balanced around wh
 
 Additionally, where Magic has more phases in each turn, Timeline has fewer, but in a similar configuration. The main difference from Magic is that after the Combat Phase ends in Timeline, that player's turn ends. There is no window for taking actions *after* Combat resolves, prior to the turn ending. You play what cards you can, send your attacks onto the timeline and your turn ends. This is done to simplify game flow as well as to make each turn like one big "post" that is sent in a sequence rather than extended with a second main phase after combat.
 
-Last but not least, there is another mechanic inspired in part by Magic the Gathering, "scheduling posts", which allows a player to pre-pay some of the cost of a card in advance so as to play it later at a lower cost. This is inspired both by the concept of scheduling posts on Twitter and e-mail but also the "Foretell" mechanic from Magic the Gathering's Kaldheim expansion. It functions in a very similar way.
+Last but not least, there is another mechanic inspired in part by Magic the Gathering; "scheduling posts", which allows a player to pre-pay some of the cost of a card in advance so as to play it later at a lower cost. This is inspired both by the concept of scheduling posts on Twitter and e-mail but also the "Foretell" mechanic from Magic the Gathering's Kaldheim expansion. It functions in a very similar way.
 
 ### Yu Gi Oh, Discarding the Color Wheel, Fusion Monsters + Factions
 
