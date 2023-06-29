@@ -32,7 +32,11 @@ Red, as a color in MTG, is aggressive. An iconic card for Red is "fireball" (a f
 
 Blue, on the other hand, has a very different philosophy. Where Red is often "low to the ground" - I.E. relatively easy to play and simple, Blue is operating on a different level and tends to wait and see, or in other words, Blue wants to *react*. Where Red basically always wants to engage, Blue is a color that likes to choose when to engage - Blue wants to fight on its own terms. Blue cards, for example, often feature flying. Flying cards, when attacking, can only be blocked by other creatures that fly - but they can choose to block non-flying creatures when they attack. 
 
-The iconic card for Blue in Magic is "Counterspell", which I featured in Timeline as "Ratio". Counterspells stop your opponent from playing the card they want to play. This defines the reactive playstyle - you can only use Counterspell if you opted to leave your lands untapped on your turn (I.E. you didn't play many/any cards) and waited to see what your opponent would play. 
+The iconic card for Blue in Magic is "Counterspell", which I featured in Timeline as "Ratio". 
+
+![](https://dl.openseauserdata.com/cache/originImage/files/2a4f0f95735c3aa6a3b7468e7c35c580.png)
+
+Counterspells stop your opponent from playing the card they want to play. This defines the reactive playstyle - you can only use Counterspell if you opted to leave your lands untapped on your turn (I.E. you didn't play many/any cards) and waited to see what your opponent would play. 
 
 This is kind of a bluff, as your opponent is aware that you are playing as Blue, and aware that you have lands available to play a Counterspell. They in turn may call your bluff by choosing to play (or not play) a valuable card. If you manage to Counterspell a critical card or two from your opponent, you can neutralize what they are attempting to do and engage on your terms.
 
@@ -60,6 +64,10 @@ Without the color wheel and lands within the "main deck", I layered complexity b
 
 Once a player has four Quill tokens, they can put four back into the pool and "disembody" one of their posters, allowing that poster to contribute two posts to the cost of playing a card, rather than one. 
 
+![](https://cdn.discordapp.com/attachments/1064733175412166786/1124100127687184416/quill_pool.png)
+
+*The Quill Pool can be seen on the game board, above, in the top right*
+
 This allows a player to reach beyond the "five posts per turn" limit at their own choosing should they want to play more cards than they would otherwise be able to. This system ripples out across the game as it encourages players to include cards that can be played early on and therefore begin stacking as many Quill tokens as they can per turn. As there are only fifteen of these tokens total, there is a hard limit on how many tokens one player is able to stack. 
 
 Quill Tokens can therefore be hoarded as a means of keeping tokens and their corresponding effect away from their opponent - by not using them, they are not returned to the pool. Should the pool return to zero, and a player chooses to use four of their tokens (thereby returning them to the pool), upon the next turn it is very likely their opponent will quickly gain possession of all four tokens. It is a type of game within the game which, while relatively simple, can easily decide the outcome of a match and demands attention.
@@ -86,9 +94,9 @@ With all those factors accelerating play into a more advanced game state compare
 
 `Creature Types` also behave similarly to Magic in Timeline Game. The only main difference is that in Timeline, creatures and perpetual effects such as Pinned Posts are known as Manifestations, as they are 'manifested' onto the field of play by posts from Posters. These manifestations can be searched from decks and there are many cards that interact with certain types of manifestations. 
 
-For example, the card `Synchronized Crying` can only be played if there are three manifestations with the "CRYING" type - typically associated with Miladys - on the timeline under the player's control.
+![](https://dl.openseauserdata.com/cache/originImage/files/295b2862f78183929441a9e562e0fcc4.png)
 
-https://dl.openseauserdata.com/cache/originImage/files/295b2862f78183929441a9e562e0fcc4.png
+For example, the card `Synchronized Crying` can only be played if there are three manifestations with the "CRYING" type (typically associated with Miladys) on the timeline under the player's control.
 
 ## Additional Inspirations from MTG
 
@@ -106,6 +114,8 @@ As mentioned, the Color Wheel is an important part of Magic the Gathering which 
 
 WIthout the Color Wheel - and drawing playable cards each turn rather than a land every other~ turn - we now have a form of a game that looks similar to Magic in many respects but is in reality quite different. I turned to Yu Gi Oh and their Fusion Monster system in tandem with faction synergies to reintroduce trade-offs to the deck construction process. In doing so, this reinserted an element that is like the Color Wheel, but simpler.
 
+![](https://i.ebayimg.com/images/g/F3EAAOSwwypj1~2L/s-l1600.png)
+
 In Yu Gi Oh, Fusion Summons allow a player to play a Fusion Monster card from an "Extra Deck" by activating a set of cards together. For example, by playing the "Polymerization" card - a catalyst card for fusing cards - and two specific creatures, a player can bring out a special Fusion of the two creatures from their "extra deck" on-demand. Because this is a trade of three cards for one (Polymerization + Two Creatures), the resulting card is "allowed" to be very strong from a balance perspective.
 
 ## Gating Power Behind Combinations
@@ -116,6 +126,8 @@ This can be trickier than it sounds, as the best combination cards can be antici
 
 If you do get to play these combination cards, they are typically just as susceptible to hard removal such as "Delete" or "Void Nymph" as their puzzle pieces were. These end-result combination cards have a lot of power and synergies, however. 
 
+![](https://dl.openseauserdata.com/cache/originImage/files/b7079ae601000e835a3dc6f3a539fdb9.png)
+
 Radical Spirit, for example, with its "Spirit Bomb" ability, can sacrifice one of the Spirit cards used to get it onto the Timeline and deal 3 damage to any target - and also can still attack that turn. Anyone playing around the Radical Spirit card likely has numerous Spirit cards in their deck, meaning Radical Spirit can often go to town on opponents with this ability.
 
 So while these combination-type cards that require set up to play are a "hard" way to gate power in a post-Color Wheel world - "hard" as in, you literally can't play them without a deck somewhat built around them - there is a "soft" way to gate power in the form of Timeline's factions. The OG Timeline Game set "Apes vs Miladys" features a few major factions. Going in-depth on those is for another time. 
@@ -125,6 +137,8 @@ So while these combination-type cards that require set up to play are a "hard" w
 To give an example for now, we can look at the Milady faction. There are many Milady-themed cards that support the decision to index heavily on Milady cards during the deck-building process, just as there are NFT-themed cards that support the NFT theme (which many Miladys also qualify in), just as there are Forest Kingdom-themed cards to support that theme, and so on. 
 
 This foundational game design encourages players to mix and match only sparingly, and lets game designers for Timeline continue to build on these themes whether through official Timeline Game packs that add additional cards of an existing theme, flesh out or add an entirely new theme, and so on. Derivative packs are encouraged to play with this however they like: they could for example focus entirely on adding new Milady or Ape type gameplay. They could also introduce new factions that only play well with themselves.
+
+![](https://dl.openseauserdata.com/cache/originImage/files/13f1e425d4bed4a4ca1424ee96ed9a3e.png)
 
 In the Milady faction, we can see these synergies immediately through just a few examples. Synchronized Crying, as mentioned earlier, is a powerful card which taps into the fact that there are many Miladys with the crying type. A player could pack their deck full of Milady cards that have the crying type and use Synchronized Crying as a way to paralyze opponents. This in tandem with other umbrella-type Milady cards, such as Milady Village or Work of Truth and Beauty, which both amp up all Milady cards in play, reinforces the theme. 
 
@@ -146,7 +160,7 @@ Last but not least, MetaZoo, a new entrant into the TCG scene, provided an inspi
 
 There are other examples of this, such as the Presidential NFT card, which has double ATK and DEF if Donald Trump is the current U.S. President, as well as being able to deal damage directly to opponents if Donald Trump's Trading Card NFT collection has a floor price above 1 ETH. This meta effect allows the card to reflect reality, Trump has much more presence and power on the Timeline in a real sense, in the real world, when he is the current sitting President. 
 
-https://dl.openseauserdata.com/cache/originImage/files/66584e8a0ea5f70bfd9f198eb6045bc0.png
+![](https://dl.openseauserdata.com/cache/originImage/files/66584e8a0ea5f70bfd9f198eb6045bc0.png)
 
 Similarly, this card as a Donald Trump "NFT" type card, has more oomph if the corresponding real NFT collection is in a strong position.
 
