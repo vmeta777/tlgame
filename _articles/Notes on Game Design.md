@@ -104,7 +104,7 @@ In Yu Gi Oh, Fusion Summons allow a player to play a Fusion Monster card from an
 
 ## Gating Power Behind Combinations
 
-I used the same logic in Timeline Game, but without a Polymerization card as a catalyst. Instead, you have to draw all the pieces of the puzzle and play them in order. If you do so, you often get to keep all three. For example, you need one Radbro card and one of five specific Spirit cards to play Radical Spirit. 
+I used the same logic in Timeline Game, but without a Polymerization card as a catalyst. Instead, you have to draw the pieces of the puzzle and play them in order. If you do so, you often get to keep all three. For example, you need one Radbro card and one of five specific Spirit cards to play Radical Spirit. 
 
 This can be trickier than it sounds, as the best combination cards can be anticipated, and players have a myriad of "answers" to stop you from achieving this: For example, "Ratio" can be played to stop you from playing a critical piece, your opponent can go on the offensive to force you to block with a critical piece (or to take damage elsewhere as a kind of bluff), a board wipe such as "White Hole" which gets rid of all creatures - or just a card like "Delete" or "Void Nymph" which can remove one chosen target.
 
