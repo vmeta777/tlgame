@@ -42,7 +42,7 @@ Rather than use those color wheel restraints, I made factions, many of which int
 
 There are factions that naturally mesh, like Miladys and Spirits, but there is some room for a Milady and Ape-NFT style deck. There is room to develop an Ape+Spirits style deck. There is room to make a Milady deck that features Network (A.I.) themed cards. There is room to make a Milady deck that overindexes on Milady, Remilio and Radbro, or a deck that focuses on Milady and Spirits, or Milady and BRG FC, and so on. 
 
-You do, ultimately have to make a choice about which themes you want to play towards, as a potpourri style deck, unless sincerely worked through for a while, will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later in this article.
+You do ultimately have to make a choice about which themes you want to play towards, as a potpourri style deck - unless sincerely optimized and thought through for a while - will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later in this article.
 
 ## The Quill Token System + Posters vs Lands
 
