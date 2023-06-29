@@ -26,6 +26,8 @@ The Land system and the corresponding Color Wheel were innovations that still fa
 
 Each color in MTG has a unique identity and corresponding playstyle. These are informative guardrails both for game designers and for players, and they helped inform the design of the factions in Timeline - as will be elaborated on multiple times later in this post. First I'll briefly talk about what the color system is and how it works.
 
+![](https://miro.medium.com/v2/resize:fit:1400/1*Yf59VVey9kS6yuHo5Cs41g.png)
+
 Red, as a color in MTG, is aggressive. An iconic card for Red is "fireball" (a fireball is also the symbol for Red in MTG) which deals damage directly to the opponent. Many red cards are impulsive or "fiery"; many red cards are relatively cheap to play and allow the player to start taking action immediately. 
 
 Blue, on the other hand, has a very different philosophy. Where Red is often "low to the ground" - I.E. relatively easy to play and simple, Blue is operating on a different level and tends to wait and see, or in other words, Blue wants to *react*. Where Red basically always wants to engage, Blue is a color that likes to choose when to engage - Blue wants to fight on its own terms. Blue cards, for example, often feature flying. Flying cards, when attacking, can only be blocked by other creatures that fly - but they can choose to block non-flying creatures when they attack. 
