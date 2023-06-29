@@ -40,15 +40,19 @@ In Timeline, despite taking a lot of inspiration from Magic, I chose to tweak th
 
 Rather than use those color wheel restraints, I made factions, many of which interact with each other and encourage you to fill your deck with more cards of that faction. You can mix and match factions like a Magic player might mix and match colors, but you will find that playing away from the natural synergies of the factions will close off some very powerful options from your deck. 
 
-There are factions that naturally mesh, like Miladys and Spirits, but there is some room for a Milady and Ape-NFT style deck. There is room to develop an Ape+Spirits style deck. There is room to make a Milady deck that features Network (A.I.) themed cards. There is room to make a Milady deck that overindexes on Milady, Remilio and Radbro, or a deck that focuses on Milady and Spirits, or Milady and BRG FC, and so on. 
+There are factions that naturally mesh, like Miladys and Spirits, but there is some room for a Milady and Ape-NFT style deck and whatever you can put your mind towards, although some of the factions have more synergies and internally less synergies with others.
 
-You do ultimately have to make a choice about which themes you want to play towards, as a potpourri style deck - unless sincerely optimized and thought through for a while - will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later in this post.
+You ultimately have to make a choice about which factions and gameplay themes you want to play towards, as a "anything goes" type of deck - unless sincerely optimized and thought through for a while - will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later here.
 
 ## The Quill Token System + Posters vs Lands
 
-You may be wondering where Lands and mana come into all of this. The land/mana system from Magic is great for pacing and many TCGs have used some variant on it. Ramping up from one Land to a number of them over time allows the game to start slowly and then erupt with players being able to play more powerful cards once they've played some weaker ones first. 
+You may be wondering where lands/mana come into all of this. The land/mana system from Magic is great for pacing and many TCGs have used some variant on it. Ramping up from one land to a number of them over time allows the game to start slowly and then erupt with players being able to play more powerful cards once they've played some weaker ones first. 
+
+The issue with lands in Magic is that they can have some problems of their own, and these problems can make learning the game even harder for new players. Because lands are in the main deck in Magic, you have to balance your deck so that you are drawing a land regularly. If you get unlucky with your land draws, you will be stuck with a hand full of cards you can't play. Alternatively, if you draw too many lands, you have a ton of lands (i.e. resources to play cards) but not enough cards to play. This is called mana screw and mana flooding, respectively.
 
 Some games, such as Hearthstone, opt to turn this into a more stable system, sacrificing complexity for a more consistent playing experience. I opted into this as well with Timeline, where each player draws one Poster card each turn, from a separate deck of Poster cards, with this stopping once each player has five Posters in play. 
+
+In addition to taking out the issue of sorting out your deck with regard to lands and the color wheel, this means you pull a playable card that "does something" each turn.
 
 Without the color wheel and lands within the "main deck", I layered complexity back into a now-simpler game through the aforementioned faction synergies and a new system revolving around Quill tokens. Quill tokens are taken from a shared pool of fifteen tokens that sits between the players at the start of each game. Each time a player uses a poster card to contribute to the cost of playing any card, they take possession of a Quill token from the pool. 
 
