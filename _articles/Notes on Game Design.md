@@ -42,7 +42,7 @@ Rather than use those color wheel restraints, I made factions, many of which int
 
 There are factions that naturally mesh, like Miladys and Spirits, but there is some room for a Milady and Ape-NFT style deck. There is room to develop an Ape+Spirits style deck. There is room to make a Milady deck that features Network (A.I.) themed cards. There is room to make a Milady deck that overindexes on Milady, Remilio and Radbro, or a deck that focuses on Milady and Spirits, or Milady and BRG FC, and so on. 
 
-You do ultimately have to make a choice about which themes you want to play towards, as a potpourri style deck - unless sincerely optimized and thought through for a while - will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later in this article.
+You do ultimately have to make a choice about which themes you want to play towards, as a potpourri style deck - unless sincerely optimized and thought through for a while - will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later in this post.
 
 ## The Quill Token System + Posters vs Lands
 
@@ -54,9 +54,9 @@ Without the color wheel and lands within the "main deck", I layered complexity b
 
 Once a player has four Quill tokens, they can put four back into the pool and "disembody" one of their posters, allowing that poster to contribute two posts to the cost of playing a card, rather than one. 
 
-This allows a player to reach beyond the "five posts per turn" limit at their own choosing should they want to play more cards than they would otherwise be able to. This system ripples out across the game as it encourages players to include cards that can be played early on and therefore begin stacking as many Quill tokens as they can per turn. As there are only fifteen tokens, there is a hard limit on how many tokens one player is able to stack. 
+This allows a player to reach beyond the "five posts per turn" limit at their own choosing should they want to play more cards than they would otherwise be able to. This system ripples out across the game as it encourages players to include cards that can be played early on and therefore begin stacking as many Quill tokens as they can per turn. As there are only fifteen of these tokens total, there is a hard limit on how many tokens one player is able to stack. 
 
-Quill Tokens can also be hoarded as a means of keeping tokens away from their opponent - by not using them, they are not returned to the pool. Should the pool return to zero, and a player chooses to use four of their tokens and thus return them to the pool, upon the next turn it is very likely their opponent will quickly gain possession of all four tokens. It is a kind of metagame which, while relatively simple, can easily turn the tide of a game and demands attention.
+Quill Tokens can therefore be hoarded as a means of keeping tokens and their corresponding effect away from their opponent - by not using them, they are not returned to the pool. Should the pool return to zero, and a player chooses to use four of their tokens (thereby returning them to the pool), upon the next turn it is very likely their opponent will quickly gain possession of all four tokens. It is a metagame which, while relatively simple, can easily turn the tide of a game and demands attention.
 
 The aim of Timeline Game, and in particular the initial release, was to create an enjoyable foundation of a card game which is engaging and complex, but also simple enough for a beginner to grasp within fifteen minutes of playing. By removing the land system and its corresponding pain points (mana screw/flooding, for example), as well as the color wheel, there are less things for a player to learn, while the Quill system is a simple addition that creates a unique gameplay loop that is foreign to Magic the Gathering and other influences.
 
