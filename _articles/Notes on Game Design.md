@@ -24,25 +24,25 @@ The Land system and the corresponding Color Wheel were innovations that still fa
 
 ## Color Philosophy in MTG
 
-Each color in MTG has a unique identity and corresponding playstyle. These are informative guardrails both for game designers and for players, and they helped inform the factions in Timeline - as will be elaborated on multiple times here, later on. 
+Each color in MTG has a unique identity and corresponding playstyle. These are informative guardrails both for game designers and for players, and they helped inform the design of the factions in Timeline - as will be elaborated on multiple times later in this post. First I'll briefly talk about what the color system is and how it works.
 
 Red, as a color in MTG, is aggressive. An iconic card for Red is "fireball" (a fireball is also the symbol for Red in MTG) which deals damage directly to the opponent. Many red cards are impulsive or "fiery"; many red cards are relatively cheap to play and allow the player to start taking action immediately. 
 
 Blue, on the other hand, has a very different philosophy. Where Red is often "low to the ground" - I.E. relatively easy to play and simple, Blue is operating on a different level and tends to wait and see, or in other words, Blue wants to *react*. Where Red basically always wants to engage, Blue is a color that likes to choose when to engage - Blue wants to fight on its own terms. Blue cards, for example, often feature flying. Flying cards, when attacking, can only be blocked by other creatures that fly - but they can choose to block non-flying creatures when they attack. 
 
-The iconic card for Blue is "Counterspell", which I featured in Timeline as "Ratio". Counterspells stop your opponent from playing the card they want to play. This defines the reactive playstyle - you can only use Counterspell if you chose to leave your lands untapped on your turn (I.E. you didn't play many or any cards) and waited to see what your opponent would play. It's kind of a bluff, as your opponent is aware that you are Blue, and aware that you have lands to play a counterspell, but may or may not choose to play a valuable card to try your bluff. If you manage to counterspell a critical card or two from your opponent, you can neutralize what they are attempting to do and engage on your terms.
+The iconic card for Blue in Magic is "Counterspell", which I featured in Timeline as "Ratio". Counterspells stop your opponent from playing the card they want to play. This defines the reactive playstyle - you can only use Counterspell if you opted to leave your lands untapped on your turn (I.E. you didn't play many/any cards) and waited to see what your opponent would play. This is kind of a bluff, as your opponent is aware that you are playing as Blue, and aware that you have lands available to play a Counterspell. They in turn may call your bluff by choosing to play (or not play) a valuable card. If you manage to Counterspell a critical card or two from your opponent, you can neutralize what they are attempting to do and engage on your terms.
 
-## Removing the Land System + Color Wheel
+## Removing the Color Wheel
 
-In Timeline, despite taking a lot of inspiration from Magic, I chose to remove the land system and the color wheel. These are rabbit-hole style systems that one can easily spend hours optimizing for, and they're also constraints on the game designer. I wanted to make the game accessible for newcomers. Rather than use color restraints, I made factions, many of which interact with each other and encourage you to fill your deck with more cards of that faction. You can mix and match factions like a Magic player might mix and match colors, but you will find that playing away from the natural synergies of the factions will close off some very powerful options from you. 
+In Timeline, despite taking a lot of inspiration from Magic, I chose to tweak the land system and remove the corresponding color wheel. These are rabbit-hole style systems that one can easily spend hours optimizing for, and they're also constraints on the game designer. I wanted to make the game accessible for newcomers. Rather than use color restraints, I made factions, many of which interact with each other and encourage you to fill your deck with more cards of that faction. You can mix and match factions like a Magic player might mix and match colors, but you will find that playing away from the natural synergies of the factions will close off some very powerful options from your deck. 
 
 There are factions that naturally mesh, like Miladys and Spirits, but there is some room for a Milady and Ape-NFT style deck. There is room to develop an Ape+Spirits style deck. There is room to make a Milady deck that features Network (A.I.) themed cards. There is room to make a Milady deck that overindexes on Milady, Remilio and Radbro, or a deck that focuses on Milady and Spirits, or Milady and BRG FC, and so on. You do, ultimately have to make a choice about which themes you want to play towards, as a potpourri style deck, unless sincerely worked through for a while, will have trouble keeping up with decks that do play towards natural synergies in the factions. This will be touched on again later in this article.
 
+## The Quill Token System + Posters vs Lands
+
 You may be wondering where Lands and mana come into all of this. The land/mana system from Magic is great for pacing and many TCGs have used some variant on it. Ramping up from one Land to a number of them over time allows the game to start slowly and then erupt with players being able to play more powerful cards once they've played some weaker ones first. 
 
-Some games, such as Hearthstone, opt to turn this into a more stable system, sacrificing complexity for a more consistent playing experience. I opted into this as well with Timeline, where each player draws one Poster card each turn, from a separate deck of Poster cards, and stopping once each player has five Posters in play. 
-
-## The Quill Token System
+Some games, such as Hearthstone, opt to turn this into a more stable system, sacrificing complexity for a more consistent playing experience. I opted into this as well with Timeline, where each player draws one Poster card each turn, from a separate deck of Poster cards, with this stopping once each player has five Posters in play. 
 
 Without the color wheel and lands within the "main deck", I layered complexity back into a now-simpler game through the aforementioned faction synergies and a new system revolving around Quill tokens. Quill tokens are taken from a shared pool of fifteen tokens that sits between the players at the start of each game. Each time a player uses a poster card to contribute to the cost of playing any card, they take possession of a Quill token from the pool. 
 
@@ -54,29 +54,35 @@ The aim of Timeline Game, and in particular the initial release, was to create a
 
 ### Other Influences from Magic the Gathering
 
-I've mentioned some of the major divergences and tweaking with regard to the Land or Resource system and the Color Wheel, which will be discussed again shortly, but there's still some aspects of MTG influence to talk about here.
+I've mentioned some of the major divergences and tweaking with regard to the Land or Resource system and the Color Wheel but there are some aspects of MTG influence to discuss first.
 
-The pacing and essentially the "spine" of Timeline Game would not exist without Magic the Gathering. While the Land system was stripped down and smoothened out, then further tweaked with the Quill system, much of the gameflow mirrors a simplified form of Magic the Gathering. 
+The pacing and, essentially, the "spine" of Timeline Game would not exist without Magic the Gathering. While the Land system was stripped down and smoothened out, then further tweaked with the Quill system, much of the gameplay flow mirrors a simplified form of Magic the Gathering. 
 
-## Hit Points or "Life"
+## Hit Points or "Life" Points
 
-Hit Points or "Life", like in Magic and many TCGs, are also a core part of Timeline. Each player has twenty-five (five more than in Magic), and when you have zero left, you lose the game. The increase is a balance decision. 
+Hit Points or "Life", like in Magic and many TCGs, are also a core part of Timeline. Each player has twenty-five (five more than in Magic) points, and when you have zero, you lose the game. The increase of twenty-five in Timeline from twenty in Magic is a balance decision. 
 
-By compressing the total resources (posters) to a cap of five and since you get +1 to your resource pool each turn guaranteed, the game can accelerate and get out of hand quickly. The Quill system also contributes to this ramp-up. 
+By compressing the total resources (posters) to a cap of five - and since you get +1 to your resource pool each turn guaranteed, unlike in Magic - the game state accelerates and can get out of hand quickly. The Quill system also contributes to this ramp-up. 
 
-This is intentional, as Timeline is meant to be accessible and played quickly. The idea is for players to play a number of games back to back, I.E. a best of three or a best of five, and for that to ideally take less than an hour or so once both players know what they are doing. 
+This is intentional, as Timeline is meant to be accessible and played quickly. The idea is for players to play a number of games back to back, I.E. a best of three or a best of five, and for that to take less than an hour once both players know what they are doing. 
 
 With all those factors accelerating play into a more advanced game state compared to most card games, adding five life points makes the game last that little bit longer while still being reasonable.
 
-`Creature Types` also behave similarly to Magic in Timeline Game. The only main difference is that in Timeline, creatures and perpetual effects such as Pinned Posts are classed as Manifestations, as they are 'manifested' by posts from Posters. These manifestations can be searched from decks and there are many cards that interact with certain types of manifestations. For example, the card `Synchronized Crying` can only be played if there are three manifestations with the "CRYING" type - typically associated with Miladys - on the timeline under the player's control.
+## Creature Types or "Manifestation" Types
+
+`Creature Types` also behave similarly to Magic in Timeline Game. The only main difference is that in Timeline, creatures and perpetual effects such as Pinned Posts are known as Manifestations, as they are 'manifested' onto the field of play by posts from Posters. These manifestations can be searched from decks and there are many cards that interact with certain types of manifestations. 
+
+For example, the card `Synchronized Crying` can only be played if there are three manifestations with the "CRYING" type - typically associated with Miladys - on the timeline under the player's control.
 
 https://dl.openseauserdata.com/cache/originImage/files/295b2862f78183929441a9e562e0fcc4.png
 
 ## Additional Inspirations from MTG
 
-Other similarities from Magic including the cadence and phases of play. "Summoning Sickness", wherein creatures can't use their abilities or traditionally attack the turn they are played, also exists in Timeline. There is, however, a slight difference in that many cards are balanced around whether their activated abilities cause that manifestation to "tap" for that turn. If they do, it can't attack or defend until their next turn. There are some variations, where this simply limits a creature from attacking on that turn, while they can still defend on the opponent's turn.
+Other similarities from Magic include the cadence and phases of play. "Summoning Sickness", wherein creatures can't use their abilities or attack the turn they are played, also exists in Timeline. 
 
-Additionally, where Magic has more phases in each turn, Timeline has fewer, but in a similar configuration. The main difference from Magic is that after the Combat Phase ends in Timeline, that player's turn ends. There is no window for taking actions after Combat prior to the turn ending. Cards can, however be played during the Combat phase before damage resolves. 
+There is, however, a slight difference in that many cards are balanced around whether their activated abilities cause that manifestation to "tap" for that turn. If they do, it can't attack or defend until their next turn. There are some variations, where this simply limits a creature from attacking on that turn, while they can still defend on the opponent's turn.
+
+Additionally, where Magic has more phases in each turn, Timeline has fewer, but in a similar configuration. The main difference from Magic is that after the Combat Phase ends in Timeline, that player's turn ends. There is no window for taking actions *after* Combat resolves, prior to the turn ending. You play what cards you can, send your attacks onto the timeline and your turn ends. This is done to simplify game flow as well as to make each turn like one big "post" that is sent in a sequence rather than extended with a second main phase after combat.
 
 Last but not least, there is another mechanic inspired in part by Magic the Gathering, "scheduling posts", which allows a player to pre-pay some of the cost of a card in advance so as to play it later at a lower cost. This is inspired both by the concept of scheduling posts on Twitter and e-mail but also the "Foretell" mechanic from Magic the Gathering's Kaldheim expansion. It functions in a very similar way.
 
