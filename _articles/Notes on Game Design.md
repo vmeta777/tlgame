@@ -88,11 +88,11 @@ Last but not least, there is another mechanic inspired in part by Magic the Gath
 
 ### Yu Gi Oh, Discarding the Color Wheel, Fusion Monsters + Factions
 
-As mentioned earlier, the Color Wheel is an important part of Magic the Gathering which helps "keep things real" from a perspective of which cards a player can feasibly add to their deck. Without the Color Wheel, players could play all of the best cards basically freely, and the entire point of the Color Wheel and each color's philosophy would kind of go out the window. The Color Wheel effectively makes players choose how they want to play and stick with it. 
+As mentioned, the Color Wheel is an important part of Magic the Gathering which helps "keep things real" from a perspective of which cards a player can feasibly add to their deck. Without the Color Wheel, players could play all of the best cards basically freely, and the entire point of the Color Wheel and each color's corresponding gameplay philosophy would go out the window. The Color Wheel effectively makes players choose how they want to play and stick with it. 
 
-WIthout the Color Wheel - and drawing playable cards each turn rather than a land every other~ turn - we have a form of a game that looks similar to Magic in many respects but is quite different. I turned to Yu Gi Oh and their Fusion Monster system in large part to solve the problem of deck construction and to reinsert an element akin to the Color Wheel.
+WIthout the Color Wheel - and drawing playable cards each turn rather than a land every other~ turn - we now have a form of a game that looks similar to Magic in many respects but is in reality quite different. I turned to Yu Gi Oh and their Fusion Monster system in tandem with faction synergies to reintroduce trade-offs to the deck construction process. In doing so, this reinserted an element that is like the Color Wheel, but simpler.
 
-In Yu Gi Oh, Fusion Summons allow a player to play a Fusion Monster card from an "Extra Deck" by activating a set of cards together. For example, by playing the "Polymerization" card - a catalyst for Fusions - and two specific creatures, a player can bring out a special Fusion of the two creatures from their extra deck on-demand. Because this is typically a trade of three cards for one (Polymerization + Two Creatures), that card is "allowed" to be very strong.
+In Yu Gi Oh, Fusion Summons allow a player to play a Fusion Monster card from an "Extra Deck" by activating a set of cards together. For example, by playing the "Polymerization" card - a catalyst card for fusing cards - and two specific creatures, a player can bring out a special Fusion of the two creatures from their "extra deck" on-demand. Because this is a trade of three cards for one (Polymerization + Two Creatures), the resulting card is "allowed" to be very strong from a balance perspective.
 
 ## Gating Power Behind Combinations
 
