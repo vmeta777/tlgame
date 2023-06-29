@@ -10,7 +10,7 @@ tags: timeline gamedesign
 
 # Notes on Game Design
 
-In designing Timeline Game (Timeline for short), a great deal of the inspiration for the mechanics and gameplay came from popular trading card games in the space. In this article, I'll go through the major influences - what was absorbed into the game, what wasn't - and why.
+In designing Timeline Game (Timeline for short), a great deal of the inspiration for the mechanics and gameplay came from popular trading card games in the space. In this post, I'll go through the major influences - what was absorbed into the game, what wasn't - and why.
 
 ## Magic the Gathering
 
