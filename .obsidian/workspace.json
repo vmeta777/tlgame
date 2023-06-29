@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_articles/Timeline Artist MAC.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_articles/Timeline Artist MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_articles/Timeline Artist MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Notes on Game Design.md"
+                "file": "_articles/Timeline Artist MAC.md"
               }
             }
           },
@@ -174,13 +174,21 @@
   },
   "active": "d0c69a70baee1f62",
   "lastOpenFiles": [
+    "_articles/Timeline Artist Krug.md",
+    "_articles/Timeline Artist Black.md",
+    "_articles/Timeline Artist Shiro.md",
+    "_articles/Timeline Artist MAC.md",
+    "_articles/Notes on Game Design.md",
+    "_articles/Mechanics of Timeline Game.md",
+    "_articles/Grifter's Game.md",
+    "_articles/Artists of Timeline Game.md",
+    "_journal/Jade post.md",
+    "_journal/The Development of Timeline Game.md",
+    "_journal/Notes on Remilia's New Internet.md",
     "_daily/2023-06-29.md",
     "index.md",
-    "_articles/Notes on Game Design.md",
     "_articles/Notes on Game Design Draft.md",
-    "_articles/Mechanics of Timeline Game.md",
     "_daily/2023-06-28.md",
-    "_articles/Artists of Timeline Game.md",
     "_daily/2023-06-27.md",
     "ring.md",
     "readme.md",
@@ -189,8 +197,6 @@
     "exocore/_templates/_article.md",
     "_site/readme.md",
     "_daily/2023-06-26.md",
-    "_journal/Notes on Remilia's New Internet.md",
-    "_journal/The Development of Timeline Game.md",
     "_wiki/Factions of Timeline Game.md",
     "_wiki/The Original Posts.md",
     "_site/assets/imgs/card.png",
@@ -198,12 +204,6 @@
     "_site/assets/imgs/born to post.png",
     "assets/imgs/born to post.png",
     "_articles/Story of Timeline Game.md",
-    "_articles/Grifter's Game.md",
-    "_articles/Rare Pepes.md",
-    "_articles/Special Editions.md",
-    "_articles/archived/Using your Exocore.md",
-    "_articles/archived/Set up a Custom Domain.md",
-    "_articles/archived/Configure Exocore for Personal Use.md",
     "_articles/archived",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
