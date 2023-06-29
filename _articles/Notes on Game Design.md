@@ -106,21 +106,25 @@ So while these combination-type cards that require set up to play are a "hard" w
 
 ## The Milady Faction or "Theme"
 
-To give an example for now, we can look at the Milady faction. There are many Milady-themed cards that support the decision to index heavily on Milady cards during the deck-building process, just as there are NFT-themed cards that support the NFT theme (which many Miladys also qualify in), just as there are Forest Kingdom-themed cards to support that theme, and so on. This base encourages players to mix and match only sparingly, and lets game designers for Timeline continue to build on these themes whether it's through official Timeline Game packs that add additional cards of an existing theme, flesh out or add an entirely new theme, and so on. Derivative packs are encouraged to play with this however they like: they could for example focus entirely on adding new Milady or Ape type gameplay. They could also introduce new factions that only play well with themselves.
+To give an example for now, we can look at the Milady faction. There are many Milady-themed cards that support the decision to index heavily on Milady cards during the deck-building process, just as there are NFT-themed cards that support the NFT theme (which many Miladys also qualify in), just as there are Forest Kingdom-themed cards to support that theme, and so on. 
 
-In the Milady faction, we can see these synergies immediately through just a few examples. Synchronized Crying, as mentioned earlier, is a powerful card which taps into the fact that there are many Miladys with the crying type. A player could pack their deck full of Milady cards that have the crying type and use Synchronized Crying as a way to paralyze opponents. This in tandem with other catch-all Milady cards, such as Milady Village or Work of Truth and Beauty, which both amp up all Milady cards in play, reinforces the theme. There are also other cards such as Beautiful Friendship which require a Milady type and a Remilio type. This allows a player to modify their deck as they choose, should they want to lean in entirely on the Milady theme, or mix in some Remilios and Radbros to add in some variety. There are also additional subthemes for Miladys such as the Elemental Miladys, or the "Burned" Miladys which can interact with Flame type cards.
+This foundational game design encourages players to mix and match only sparingly, and lets game designers for Timeline continue to build on these themes whether through official Timeline Game packs that add additional cards of an existing theme, flesh out or add an entirely new theme, and so on. Derivative packs are encouraged to play with this however they like: they could for example focus entirely on adding new Milady or Ape type gameplay. They could also introduce new factions that only play well with themselves.
 
-### Pokémon and MetaZoo
+In the Milady faction, we can see these synergies immediately through just a few examples. Synchronized Crying, as mentioned earlier, is a powerful card which taps into the fact that there are many Miladys with the crying type. A player could pack their deck full of Milady cards that have the crying type and use Synchronized Crying as a way to paralyze opponents. This in tandem with other umbrella-type Milady cards, such as Milady Village or Work of Truth and Beauty, which both amp up all Milady cards in play, reinforces the theme. 
+
+There are also other cards such as Beautiful Friendship which require a Milady type and a Remilio type. This allows a player to modify their deck as they choose, should they want to lean in entirely on the Milady theme, or mix in some Remilios and Radbros to add in some variety. There are also additional subthemes for Miladys such as the Elemental Miladys, or the "Burned" Miladys which can interact with Flame type cards.
+
+## Pokémon and MetaZoo
 
 Now that we've talked about Factions and Themes, let's talk briefly about two other games that lent inspiration to game design in Timeline Game.
 
-## Pokémon
+### Pokémon
 
 Pokémon was a great influence. The influence from Pokémon on Timeline Game as an NFT collection, not just a game, deserves an article on its own - but when it comes to gameplay, the simple concept here is that many cards have unique, activatable abilities, just as cards do in Pokémon. While this is something that features in many TCGs, abilities in Timeline are a lot more inspired by Pokémon both in their uniqueness, allowing many cards to serve a specific role or identity within a deck as well the simple fact that they are all "named abilities" and that they are so prevalent. 
 
 Like Pokémon, some cards also have multiple abilities. The end-goal was to make the cards both fun to play in the game and rewarding to collect as NFTs. With thoughtful game design and purpose behind each ability, cards have a character to them, such as Radical Spirit and his Spirit Bomb ability, which fits the idea of a Remilio/Radbro who is not only spirited from his Milady roots but chaotic and dangerous, which stems from the Remilio/Radbro side.
 
-## MetaZoo
+### MetaZoo
 
 Last but not least, MetaZoo, a new entrant into the TCG scene, provided an inspiration in the form of "fourth wall"-breaking effects. These are abilities and effects which tie in to something from outside the game. This was a natural alignment for Timeline game, which is itself a game that takes inspiration from the digital timeline or "real world" and converts it into TCG form. It only seemed appropriate to include cards that are stronger at, for example, certain times of day. 
 
