@@ -156,7 +156,7 @@ Like Pokémon, some cards also have multiple abilities. The end-goal was to make
 
 ### MetaZoo
 
-Last but not least, MetaZoo, a new entrant into the TCG scene, provided an inspiration in the form of "fourth wall"-breaking effects. These are abilities and effects which tie in to something from outside the game. This was a natural alignment for Timeline game, which is itself a game that takes inspiration from the digital timeline or "real world" and converts it into TCG form. It only seemed appropriate to include cards that are stronger at, for example, certain times of day. 
+Last but not least, MetaZoo, a new entrant into the TCG scene, provided an inspiration in the form of "fourth wall"-breaking effects. These are abilities and effects which tie in to something from outside the game. This was a natural alignment for Timeline, which is itself a game that takes inspiration from the digital timeline or "real world" and converts it into TCG form. It only seemed appropriate to include cards that are stronger at, for example, certain *times* of day. 
 
 There are other examples of this, such as the Presidential NFT card, which has double ATK and DEF if Donald Trump is the current U.S. President, as well as being able to deal damage directly to opponents if Donald Trump's Trading Card NFT collection has a floor price above 1 ETH. This meta effect allows the card to reflect reality, Trump has much more presence and power on the Timeline in a real sense, in the real world, when he is the current sitting President. 
 
