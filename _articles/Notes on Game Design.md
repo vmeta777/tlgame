@@ -4,7 +4,7 @@ layout: article
 category: article
 subtitle: Influences and Divergences from Popular TCG Game Design
 topic: gamedesign
-date: 2022-06-29
+date: 2023-06-29
 tags: timeline gamedesign
 ---
 
