@@ -22,5 +22,5 @@ In addition to "OG" Timeline, MAC worked on the art for roughly half of the subs
 
 ![](https://dl.openseauserdata.com/cache/originImage/files/167801252c5d96fbd74437902b60bb14.png)
 
-![](https://opensea.io/assets/ethereum/0xfc15d428474f8a828a64d2ebf5fccadc0d131edf/137)
+![](https://dl.openseauserdata.com/cache/originImage/files/ec74bcd274d7ab7043b2dde3f07ab33d.png)
 
