@@ -10,7 +10,9 @@ tags: timeline art shiro
 
 # Timeline Artist Shiro
 
-Shiro is a multi-faceted net artist who used a variety of techniques to help Timeline Game become a complete and polished art collection.
+[Shiro](https://twitter.com/shiro57102) is a multi-faceted net artist who used a variety of techniques which helped Timeline Game become a complete and polished art collection.
+
+![](https://pbs.twimg.com/media/FzVfVAlXoAcJe_C?format=jpg&name=large)
 
 Brought on originally as one of the first artists for her skill in creating cute, resonant and high-quality Milady memes, it wasn't long before her talent in editing was put to use on the card templates for Timeline. Her work on the card frames resulted in a polished set of various colored frames in their entirety, creating a foundation which allowed for each card to look on par with the frames of popular, professional-quality card games. Without Shiro's contributions, the Timeline collection would have been something almost entirely different and likely much worse off for it.
 
@@ -23,9 +25,9 @@ In addition to her work on the frames, Shiro created many of the most popular Mi
 
 Shiro's "Oh I See"-titled collection of commissioned artworks, which began as a reimagining of the classic Milady PFP in her singular style, has become a popular and heavily desired addition to the collection of many collectors in the NFT space. 
 
-These derivations on the original PFP created by Sonora Sprite embody the best aspects of the "Milady Derivative" sphere, namely an understanding of sincerity and the thoughtfulness needed in the creation of art.
+These melancholic derivations on the original PFP created by Sonora Sprite embody the best aspects of the "Milady Derivative" sphere, namely an understanding of sincerity, as well as the thoroughness and thought needed in the creation of new art.
 
-Shiro's talent for conveying the uniqueness not only of the original image inspiration but also the person or poster represented in each "Oh, I See" commission betrays that sincere talent for conveying emotions and distinct personalities in a resonant yet consistent style. 
+Shiro's talent for representing the unique qualities not only of the original image inspiration but also the person or poster represented in each "Oh, I See" commission betrays that sincere talent for conveying emotion and distinct personalities in a resonant, consistent style. 
 
 Shiro was also commissioned to create a series of "Oh, I See" style Hat cards for Timeline, the first of which (the "MOG HAT") can be seen below.
 ![](https://dl.openseauserdata.com/cache/originImage/files/6a6ed730db6b5a013700d3b73d0577b5.png)
