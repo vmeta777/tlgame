@@ -14,7 +14,7 @@ tags: timeline art kruglyash
 
 Her work, often done in MS Paint, straddles the line between simplicity and depth. 
 
-![](![](https://dl.openseauserdata.com/cache/originImage/files/0bd2bba2ce173558730c56a5a3c32c35.png))
+![](https://pbs.twimg.com/media/FzAkJwqWYAAsv8_?format=jpg&name=large)
 
 This is also portrayed in "VR", which features a repeated Milady character in her style, juxtaposed alongside blank space and adorned with jagged, energetic spikes. 
 
