@@ -5,7 +5,7 @@ tags: cultures
 published: true
 ---
 
-# Cultures Or How "Your Internet" Revives
+# Cultures
 
 ################ Cultures expand and multiply according to their viral potential
 ################ INOCULATION OCCURS WITH NEW ENTRANTS WHO CLASH
