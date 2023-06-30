@@ -29,7 +29,7 @@ These melancholic derivations on the original PFP created by Sonora Sprite embod
 
 Shiro's talent for representing the unique qualities not only of the original image inspiration but also the person or poster represented in each "Oh, I See" commission betrays that sincere capacity for conveying emotion and distinct personalities in a resonant, consistent style. 
 
-Shiro was also commissioned to create a series of "Oh, I See" style Hat cards for Timeline, the first of which (the "MOG HAT") can be seen below.
+Shiro was also commissioned to create a series of "Oh, I See" style Hat cards for Timeline, the first of which can be seen below.
 ![](https://dl.openseauserdata.com/cache/originImage/files/6a6ed730db6b5a013700d3b73d0577b5.png)
 
 In addition to her "Oh, I See" collection, Shiro has created original 1/1 artworks such as this piece titled "# Heaven’s gate ✧ 天浮橋", and custom commissions (also seen below) which showcase her artistic and image-editing capacities.
