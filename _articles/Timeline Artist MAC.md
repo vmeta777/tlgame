@@ -25,3 +25,5 @@ In addition to "OG" Timeline, MAC worked on the art for roughly half of the subs
 ![](https://dl.openseauserdata.com/cache/originImage/files/ec74bcd274d7ab7043b2dde3f07ab33d.png)
 
 MAC, alongside fellow Timeline artists Kruglyash and Black, is also a member of the "BRG" collective.
+
+![](https://pbs.twimg.com/media/FzrZzb1WIAApvpV?format=jpg&name=medium)
