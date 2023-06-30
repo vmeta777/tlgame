@@ -30,8 +30,8 @@ Shiro's talent for conveying the uniqueness not only of the original image inspi
 Shiro was also commissioned to create a series of "Oh, I See" style Hat cards for Timeline, the first of which (the "MOG HAT") can be seen below.
 ![](https://dl.openseauserdata.com/cache/originImage/files/6a6ed730db6b5a013700d3b73d0577b5.png)
 
-In addition to her "Oh, I See" collection, Shiro has created original 1/1 artworks such as this piece titled "# Heaven’s gate ✧ 天浮橋", as well as producing other custom commissions in the past which showcase her art and image-editing capacity.
+In addition to her "Oh, I See" collection, Shiro has created original 1/1 artworks such as this piece titled "# Heaven’s gate ✧ 天浮橋", and custom commissions (also seen below) which showcase her artistic and image-editing capacities.
 
-![](https://dl.openseauserdata.com/cache/originImage/files/6a6ed730db6b5a013700d3b73d0577b5.png)
+![](https://dl.openseauserdata.com/cache/originImage/files/0e0bef1c5342448d08da458aedce427b.png)
 
 ![](https://dl.openseauserdata.com/cache/originImage/files/efc2d4c5d6da83170d0462ba20724855.png)
