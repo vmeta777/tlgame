@@ -18,7 +18,7 @@ Her work, often done in MS Paint, straddles the line between simplicity and dept
 
 This is also portrayed in "VR", which features a repeated Milady character in her style, juxtaposed alongside blank space and adorned with jagged, energetic spikes. 
 
-In the six different depictions of the Milady character in "VR", with only eyes and eyebrows, Kruglyash captures expressions of hope, defeat, confusion, disembodied detachment and more that defy labels. 
+In the six different depictions of the Milady character in "VR", with only body language, eyes and eyebrows, Kruglyash captures expressions of hope, defeat, confusion, disembodied detachment and more that defy labels. 
 
 As a working artist with demands on her time, her style is in one respect defined by that constraint. It is often finished quickly but always with an inspiration that displays undeniable artistic talent.
 
