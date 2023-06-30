@@ -23,7 +23,7 @@ In addition to her work on the frames, Shiro created many of the most popular Mi
 ![](https://dl.openseauserdata.com/cache/originImage/files/95cda31ebe51d1b8daf345d859f89bc2.png)
 ![](https://dl.openseauserdata.com/cache/originImage/files/9080cc4b2a84b44f33708aa2f7a88f67.png)
 
-Shiro's ["Oh, I See"](https://twitter.com/shiro57102) collection of commissioned artworks, which began as a reimagining of the classic Milady PFP in her singular style, has become a popular and singularly-desired addition to the collection of many in the NFT space. 
+Shiro's ["Oh, I See"](https://twitter.com/shiro57102) collection of commissioned artworks, which began as a reimagining of the classic Milady PFP in her singular style, has become a popular and very desired addition to the collection of many in the NFT space. 
 
 These melancholic derivations on the original PFP created by Sonora Sprite embody the best aspects of the nascent "Milady Derivative" sphere, namely an understanding of sincerity in art, or in other words, the thorough and thoughtful iterative process that is necessary in its creation.
 
