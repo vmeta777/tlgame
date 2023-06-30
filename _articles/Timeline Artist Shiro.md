@@ -23,11 +23,11 @@ In addition to her work on the frames, Shiro created many of the most popular Mi
 ![](https://dl.openseauserdata.com/cache/originImage/files/95cda31ebe51d1b8daf345d859f89bc2.png)
 ![](https://dl.openseauserdata.com/cache/originImage/files/9080cc4b2a84b44f33708aa2f7a88f67.png)
 
-Shiro's "Oh I See"-titled collection of commissioned artworks, which began as a reimagining of the classic Milady PFP in her singular style, has become a popular and heavily desired addition to the collection of many collectors in the NFT space. 
+Shiro's["Oh, I See"](https://twitter.com/shiro57102) collection of commissioned artworks, which began as a reimagining of the classic Milady PFP in her singular style, has become a popular and singularly-desired addition to the collection of many in the NFT space. 
 
-These melancholic derivations on the original PFP created by Sonora Sprite embody the best aspects of the "Milady Derivative" sphere, namely an understanding of sincerity, as well as the thoroughness and thought needed in the creation of new art.
+These melancholic derivations on the original PFP created by Sonora Sprite embody the best aspects of the nascent "Milady Derivative" sphere, namely an understanding of sincerity in art, or in other words, the thorough and thoughtful iterative process that is necessary in its creation.
 
-Shiro's talent for representing the unique qualities not only of the original image inspiration but also the person or poster represented in each "Oh, I See" commission betrays that sincere talent for conveying emotion and distinct personalities in a resonant, consistent style. 
+Shiro's talent for representing the unique qualities not only of the original image inspiration but also the person or poster represented in each "Oh, I See" commission betrays that sincere capacity for conveying emotion and distinct personalities in a resonant, consistent style. 
 
 Shiro was also commissioned to create a series of "Oh, I See" style Hat cards for Timeline, the first of which (the "MOG HAT") can be seen below.
 ![](https://dl.openseauserdata.com/cache/originImage/files/6a6ed730db6b5a013700d3b73d0577b5.png)
