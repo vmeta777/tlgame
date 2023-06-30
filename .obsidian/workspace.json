@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Timeline Artist Krug.md",
+                "file": "_articles/Timeline Artist MAC.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Timeline Artist Krug.md",
+                "file": "_articles/Timeline Artist MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Timeline Artist Krug.md",
+                "file": "_articles/Timeline Artist MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Timeline Artist Krug.md"
+                "file": "_articles/Timeline Artist MAC.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "c71f34c23c41b2f3",
   "lastOpenFiles": [
-    "_articles/Timeline Artist MAC.md",
     "_articles/Timeline Artist Krug.md",
+    "_articles/Timeline Artist MAC.md",
     "_articles/Timeline Artist Black.md",
     "_articles/Timeline Artist Shiro.md",
     "_articles/archived/The Exocore Package.md",
