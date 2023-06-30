@@ -23,7 +23,7 @@ In addition to her work on the frames, Shiro created many of the most popular Mi
 ![](https://dl.openseauserdata.com/cache/originImage/files/9080cc4b2a84b44f33708aa2f7a88f67.png)
 
 Shiro's "Oh I See"-titled collection of commissioned artworks, which began as a reimagining of the classic Milady PFP in her singular style, has become a popular and heavily desired addition to the collection of many collectors in the NFT space. 
-These derivations on the original PFP created by Sonora Sprite embody a lot of what collectors in the Milady Derivative market, namely an understanding of sincerity and the thoughtfulness needed in the creation of art.
+These derivations on the original PFP created by Sonora Sprite embody a lot of the best aspects of the "Milady Derivative Market", namely an understanding of sincerity and the thoughtfulness needed in the creation of art.
 Shiro's talent for conveying the uniqueness not only of the original image inspiration but also the person or poster represented in each "Oh, I See" commission betrays that sincere talent for conveying emotions and distinct personalities in a resonant yet consistent style. 
 Shiro was also commissioned to create a series of "Oh, I See" style Hat cards for Timeline, the first of which (the "MOG HAT") can be seen below.
 ![](https://dl.openseauserdata.com/cache/originImage/files/6a6ed730db6b5a013700d3b73d0577b5.png)
