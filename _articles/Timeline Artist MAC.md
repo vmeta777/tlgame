@@ -2,15 +2,23 @@
 published: true
 layout: article
 category: article
-subtitle: The Network Soul Behind Many of Timeline's Best Pieces
+subtitle: The Kamikaze Claymaster
 topic: art
 date: 2023-06-29
-tags: timeline art
+tags: timeline art mac
 ---
 
 # Timeline Artist MAC
 
-In designing Timeline Game (Timeline for short), a great deal of the inspiration for the mechanics and gameplay came from popular trading card games in the space. In this post, I'll go through the major influences - what was absorbed into the game, what wasn't - and why.
+[MAC](https://twitter.com/mackrypt0), a long-time Milady and multimedia artist, was the last addition brought on for the original Timeline collection, creating clay representations of classic Remilia characters such as Charlotte Fang and Neodoujinshi favorite Radbro. MAC is a unique talent who has also worked with the Radbro Webring on "Radcats" and whose skills extend into claymation and traditional art styles. 
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*Yf59VVey9kS6yuHo5Cs41g.png)
+![](https://dl.openseauserdata.com/cache/originImage/files/d0a31df682f72a1c0d6713e6519e0b98.png)
+
+![](https://dl.openseauserdata.com/cache/originImage/files/f070e8e6e0b4becb0cad1895f3726cb3.png)
+
+MAC also worked on the art for roughly half of the subsequent Timeline Game "Rare Pepes" drop this spring, including the Surfing Peepo and Honkler, pictured below.
+
+![]https://dl.openseauserdata.com/cache/originImage/files/167801252c5d96fbd74437902b60bb14.png)
+
+![](https://opensea.io/assets/ethereum/0xfc15d428474f8a828a64d2ebf5fccadc0d131edf/137)
 

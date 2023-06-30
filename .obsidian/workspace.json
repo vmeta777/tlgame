@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md",
+                "file": "_articles/Timeline Artist Krug.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md",
+                "file": "_articles/Timeline Artist Krug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md",
+                "file": "_articles/Timeline Artist Krug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md"
+                "file": "_articles/Timeline Artist Krug.md"
               }
             }
           },
@@ -166,17 +166,17 @@
   },
   "active": "c71f34c23c41b2f3",
   "lastOpenFiles": [
+    "_articles/Timeline Artist MAC.md",
+    "_articles/Timeline Artist Krug.md",
+    "_articles/Timeline Artist Black.md",
     "_articles/Timeline Artist Shiro.md",
     "_articles/archived/The Exocore Package.md",
     "_articles/archived/Underpinnings of the Exocore.md",
     "_journal/Notes on Remilia's New Internet.md",
     "_journal/The Development of Timeline Game.md",
     "_articles/Notes on Game Design.md",
-    "_articles/Timeline Artist MAC.md",
-    "_articles/Timeline Artist Krug.md",
     "_journal/Cultures.md",
     "_journal/Cultures 1.md",
-    "_articles/Timeline Artist Black.md",
     "_journal/Jade post.md",
     "_daily/2023-06-30.md",
     "_daily/2023-06-28.md",
