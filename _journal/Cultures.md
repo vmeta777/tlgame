@@ -13,7 +13,7 @@ published: true
 ################ REQUIRING INCUBATION AT AN OPTIMAL TEMPERATURE
 ################ One morning you discover upon waking
 ################ COLONIZATION OF A SPHERE
-################ Unrecognizable - and yet, similarities, the familiar scent
+################ Unrecognizable - and yet, a familiar scent
 ################ A FUSE IS LIT
 ################ A spark is diminished
 ################ YET REMAINS
