@@ -7,15 +7,26 @@ published: true
 
 # Cultures
 
-################ Cultures expand and multiply according to their viral potential
-################ INOCULATION OCCURS WITH NEW ENTRANTS WHO CLASH
-################ Popular mediums are used as highways for a new growth
-################ REQUIRING INCUBATION AT AN OPTIMAL TEMPERATURE
-################ One morning you discover upon waking
-################ COLONIZATION OF A SPHERE
-################ Unrecognizable - and yet, a familiar scent
-################ A FUSE IS LIT
-################ A spark is diminished
-################ YET REMAINS
-################ different
+################ Cultures expand and multiply according to their viral potential  
+
+################ INOCULATION OCCURS WITH NEW ENTRANTS WHO CLASH  
+
+################ Popular mediums are used as highways for a new growth  
+
+################ REQUIRING INCUBATION AT AN OPTIMAL TEMPERATURE  
+
+################ One morning you discover upon waking  
+
+################ COLONIZATION OF A SPHERE  
+
+################ Unrecognizable - and yet, a familiar scent  
+
+################ A FUSE IS LIT  
+
+################ A spark is diminished  
+
+################ YET REMAINS  
+
+################ different  
+
 ################ THE SAME
