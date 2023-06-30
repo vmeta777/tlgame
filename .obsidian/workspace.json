@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0c69a70baee1f62",
+            "id": "c71f34c23c41b2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md",
+                "file": "_journal/Cultures.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "c71f34c23c41b2f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md",
+                "file": "_journal/Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md",
+                "file": "_journal/Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Timeline Artist MAC.md"
+                "file": "_journal/Cultures.md"
               }
             }
           },
@@ -172,23 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0c69a70baee1f62",
+  "active": "c71f34c23c41b2f3",
   "lastOpenFiles": [
+    "_journal/Jade post.md",
+    "_journal/Cultures.md",
+    "_daily/2023-06-30.md",
+    "_daily/2023-06-28.md",
+    "_daily/2023-06-25.md",
+    "_daily/2023-06-29.md",
+    "_articles/Timeline Artist MAC.md",
     "_articles/Timeline Artist Krug.md",
     "_articles/Timeline Artist Black.md",
     "_articles/Timeline Artist Shiro.md",
-    "_articles/Timeline Artist MAC.md",
     "_articles/Notes on Game Design.md",
     "_articles/Mechanics of Timeline Game.md",
     "_articles/Grifter's Game.md",
     "_articles/Artists of Timeline Game.md",
-    "_journal/Jade post.md",
     "_journal/The Development of Timeline Game.md",
     "_journal/Notes on Remilia's New Internet.md",
-    "_daily/2023-06-29.md",
     "index.md",
     "_articles/Notes on Game Design Draft.md",
-    "_daily/2023-06-28.md",
     "_daily/2023-06-27.md",
     "ring.md",
     "readme.md",
@@ -197,13 +192,10 @@
     "exocore/_templates/_article.md",
     "_site/readme.md",
     "_daily/2023-06-26.md",
-    "_wiki/Factions of Timeline Game.md",
-    "_wiki/The Original Posts.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
     "assets/imgs/born to post.png",
-    "_articles/Story of Timeline Game.md",
     "_articles/archived",
     "_site/assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon.png",
