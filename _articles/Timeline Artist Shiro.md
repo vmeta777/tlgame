@@ -14,7 +14,9 @@ tags: timeline art shiro
 
 ![](https://pbs.twimg.com/media/FzVfVAlXoAcJe_C?format=jpg&name=large)
 
-Brought on originally as one of the first artists for her skill in creating cute, resonant and high-quality Milady memes, it wasn't long before her talent in editing was put to use on the card templates for Timeline. Her work on the card frames resulted in a polished set of various colored frames in their entirety, creating a foundation which allowed for each card to look on par with the frames of popular, professional-quality card games. Without Shiro's contributions, the Timeline collection would have been something almost entirely different and likely much worse off for it.
+Brought on originally as one of the first artists for her skill in creating cute, resonant and high-quality Milady memes, it wasn't long before her talent in editing was put to use on the card templates for Timeline.
+
+Shiro's efforts on the card frames resulted in a polished set of various colored frames, creating a foundation which allowed for each card to look on par with the frames of popular, professional-quality card games. Without Shiro's contributions, the Timeline collection would have been something almost entirely different and likely much worse off for it.
 
 In addition to her work on the frames, Shiro created many of the most popular Milady meme-style card artworks in the original collection, including Synchronized Crying, All My Apes Gone, Crying Milady and Alpha Group.
 
