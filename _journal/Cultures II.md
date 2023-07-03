@@ -17,9 +17,9 @@ published: true
 
 ################ You are a field in which things occur
 
-################ YOU ARE A TULPA
+################ YOU ARE A THOUGHTFORM
 
-################ Manifested from something exterior
+################ Manifested from the exterior
 
 ################ A FLICKERING IMAGE ON REALITY'S SCREEN
 
