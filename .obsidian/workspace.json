@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Cultures II.md",
+                "file": "_daily/2023-07-08.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Cultures II.md",
+                "file": "_daily/2023-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Cultures II.md",
+                "file": "_daily/2023-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Cultures II.md"
+                "file": "_daily/2023-07-08.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "c71f34c23c41b2f3",
   "lastOpenFiles": [
-    "_journal/Cultures.md",
     "_journal/Cultures II.md",
+    "_daily/2023-07-08.md",
+    "_journal/Cultures.md",
     "_daily/2023-07-03.md",
     "_articles/Timeline Artist Shiro.md",
     "_articles/Timeline Artist Krug.md",
@@ -191,7 +192,6 @@
     "_daily/2023-06-27.md",
     "ring.md",
     "readme.md",
-    "exocore/_templates/_journal.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
