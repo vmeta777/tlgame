@@ -1,11 +1,11 @@
 ---
-subtitle: Or How Your Internet Revives
+subtitle: Special Editions and Rare Pepes
 date: 2023-07-08
 tags: cultures
 published: true
 ---
 
-# Patch 1.1: Special Editions and Rare Pepes
+# Patch 1.1
 
 This patch updates the Tabletop Simulator Mod with all Special Edition cards and the Rare Pepes set. The "Digital Collectibles" deck has been updated and a new Rare Pepes themed Deck has been added. See Decklists for more on these!
 

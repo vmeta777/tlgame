@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
+                "file": "_daily/Patch 1.1.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
+                "file": "_daily/Patch 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
+                "file": "_daily/Patch 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md"
+                "file": "_daily/Patch 1.1.md"
               }
             }
           },
@@ -166,11 +166,11 @@
   },
   "active": "c71f34c23c41b2f3",
   "lastOpenFiles": [
+    "_daily/2023-07-08.md",
     "_daily/2022-05-11.md",
     "_daily/2023-06-23.md",
-    "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
+    "_daily/Patch 1.1.md",
     "_daily/2023-06-30.md",
-    "_daily/2023-07-08.md",
     "_articles/Special Editions.md",
     "_journal/Digital Collectibles Decklist.md",
     "_articles/Cultures.md",
