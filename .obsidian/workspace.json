@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md",
+                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md",
+                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md",
+                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md"
+                "file": "_daily/Patch 1.1 Special Editions and Rare Pepes.md"
               }
             }
           },
@@ -166,13 +166,17 @@
   },
   "active": "c71f34c23c41b2f3",
   "lastOpenFiles": [
-    "_articles/Cultures.md",
+    "_daily/2022-05-11.md",
+    "_daily/2023-06-23.md",
+    "_daily/Patch 1.1 Special Editions and Rare Pepes.md",
+    "_daily/2023-06-30.md",
+    "_daily/2023-07-08.md",
+    "_articles/Special Editions.md",
     "_journal/Digital Collectibles Decklist.md",
+    "_articles/Cultures.md",
     "_articles/archived/Jade post.md",
     "_articles/archived/Notes on Remilia's New Internet.md",
     "_articles/The Development of Timeline Game.md",
-    "_articles/Patch 1.1 Special Editions and Rare Pepes.md",
-    "_daily/2023-07-08.md",
     "_articles/Cultures II.md",
     "_daily/2023-07-03.md",
     "_articles/Timeline Artist Shiro.md",
@@ -182,16 +186,12 @@
     "_articles/archived/The Exocore Package.md",
     "_articles/archived/Underpinnings of the Exocore.md",
     "_articles/Notes on Game Design.md",
-    "_daily/2023-06-30.md",
     "_daily/2023-06-28.md",
     "_daily/2023-06-25.md",
     "_daily/2023-06-29.md",
     "_articles/Mechanics of Timeline Game.md",
     "_articles/Grifter's Game.md",
     "_articles/Artists of Timeline Game.md",
-    "index.md",
-    "_articles/Notes on Game Design Draft.md",
-    "_daily/2023-06-27.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",

@@ -1,5 +1,5 @@
 ---
-subtitle: Or How Your Internet Revives
+subtitle:
 date: 2022-06-30
 tags: cultures
 published: true

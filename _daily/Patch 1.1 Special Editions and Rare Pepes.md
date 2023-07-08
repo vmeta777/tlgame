@@ -1,6 +1,6 @@
 ---
 subtitle: Or How Your Internet Revives
-date: 2022-06-30
+date: 2023-07-08
 tags: cultures
 published: true
 ---
