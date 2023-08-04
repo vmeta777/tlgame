@@ -1,6 +1,6 @@
 ---
 subtitle: Basic Rules and Video Tutorial
-date: 2022-06-30
+date: 2023-08-01
 tags: cultures
 published: true
 ---
