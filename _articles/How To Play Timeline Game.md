@@ -11,7 +11,7 @@ To play Timeline Game online, you need to own a copy of Tabletop Simulator on St
 
 The video below walks you through how to interact with the Tabletop Simulator app once you have installed the MOD, [https://steamcommunity.com/sharedfiles/filedetails/?id=2945649945](#linked here).
 
-https://www.youtube.com/watch?v=sOo_CYZ6qoY
+[Tutorial YouTube video](#https://www.youtube.com/watch?v=sOo_CYZ6qoY)
 
 Alternatively, you can print out copies of the cards at home and play with them! We will have more support on how to do this in a simple way that you can print and cut them out in the future. We also may do some print runs of the cards.
 
