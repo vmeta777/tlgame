@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Timeline Artist Black.md",
+                "file": "_daily/2023-09-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Timeline Artist Black.md",
+                "file": "_daily/2023-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Timeline Artist Black.md",
+                "file": "_daily/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Timeline Artist Black.md"
+                "file": "_daily/2023-09-20.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
-    "_articles/The Development of Timeline Game.md",
     "_articles/Timeline Artist Black.md",
+    "_daily/2023-09-20.md",
+    "_articles/The Development of Timeline Game.md",
     "_articles/Timeline Artist Krug.md",
     "_articles/Timeline Artist MAC.md",
     "_articles/Story of Timeline Game.md",
@@ -204,7 +205,6 @@
     "_journal/Digital Collectibles Decklist.md",
     "_articles/archived/Notes on Remilia's New Internet.md",
     "_articles/Cultures II.md",
-    "_daily/2023-07-03.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
