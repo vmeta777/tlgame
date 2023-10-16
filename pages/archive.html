@@ -29,7 +29,7 @@ tags:
       </div>
   
       <div class="index-card">
-        <h2 class="post-title">Journal Entries</h2>
+        <h2 class="post-title">Decklists</h2>
         {% assign topic_sort = site.journal | sort: 'date' | reverse %}
         {% for journal in topic_sort %}	
         <a class="index-anchor" href="{{ journal.url }}">
