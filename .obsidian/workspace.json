@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-09-20.md",
+                "file": "_daily/Patch 1.1.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-09-20.md",
+                "file": "_daily/Patch 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-09-20.md",
+                "file": "_daily/Patch 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-09-20.md"
+                "file": "_daily/Patch 1.1.md"
               }
             }
           },
@@ -179,8 +179,15 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
-    "_articles/Timeline Artist Black.md",
+    "_daily/2022-05-11.md",
+    "_daily/2023-06-23.md",
+    "_daily/2023-07-03.md",
+    "_daily/2023-07-08.md",
+    "_daily/2023-08-04.md",
+    "_daily/2023-08-05.md",
     "_daily/2023-09-20.md",
+    "_daily/2023-10-16.md",
+    "_articles/Timeline Artist Black.md",
     "_articles/The Development of Timeline Game.md",
     "_articles/Timeline Artist Krug.md",
     "_articles/Timeline Artist MAC.md",
@@ -191,20 +198,13 @@
     "_articles/archived/Jade post.md",
     "_articles/archived/Writing with Exocore Syntax.md",
     "_articles/archived/Configure Exocore for Personal Use.md",
-    "_daily/2023-08-05.md",
     "_articles/Mechanics of Timeline Game.md",
     "_articles/How To Play Timeline Game.md",
     "_articles/Special Editions.md",
     "_articles/Cultures.md",
-    "_daily/2023-08-04.md",
     "_daily/Patch 1.1.md",
-    "_daily/2023-07-08.md",
-    "_daily/2022-05-11.md",
-    "_daily/2023-06-23.md",
     "_daily/2023-06-30.md",
     "_journal/Digital Collectibles Decklist.md",
-    "_articles/archived/Notes on Remilia's New Internet.md",
-    "_articles/Cultures II.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
