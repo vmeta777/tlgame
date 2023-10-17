@@ -14,8 +14,8 @@ This website is a repository of information regarding `"Timeline Game"`, the pla
 The website is built as an exocore. The exocore was developed by [Remilia Corporation](https://remilia.org) as a [Jamstack](https://jamstack.org/) workflow and extension of [Foam](https://github.com/foambubble/foam) to complete the system of an accessible and standardized auto-publishing knowledgebase network, as a proof-of-concept for [Remilia's New Internet](https://mirror.xyz/charlemagnefang.eth/831rVsd2Z7cjxnBAw118gW8MylKibfC2AeJ6YUHiAvA).
 
 ## How To Play Timeline Game
-On our Mirror blog, [linked here](https://mirror.xyz/timelinegame.eth/rBOs9kN25Jxc0VR1JhoZd8KLNS6UhBbC8zQ49zD5DWM), there is a basic overview of the Rules and Basic Mechanics of the game. We have included a video here as well. 
-https://www.youtube.com/watch?v=sOo_CYZ6qoY
+On our Mirror blog, [linked here](https://mirror.xyz/timelinegame.eth/rBOs9kN25Jxc0VR1JhoZd8KLNS6UhBbC8zQ49zD5DWM), there is a basic overview of the Rules and Basic Mechanics of the game. [There is also a video on how to play with a friend, linked here.](https://www.youtube.com/watch?v=sOo_CYZ6qoY)
+
 
 ## An Introduction to Timeline Game
 
