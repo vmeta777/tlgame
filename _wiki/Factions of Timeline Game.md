@@ -3,23 +3,25 @@ date: 2023-06-25
 tags: writings, factions
 ---
 # Factions of Timeline Game
+The world of Timeline Game, as we find it during the conflict depicted in the game's cards and story, is at the precipice of a great conflict. For years a delicate balance has existed in a secluded part of the world, around a great forest. This forest is known as the "Forest Kingdom" and 
+
+![](https://raw.seadn.io/files/4a3ea135360c72ec5ba8054b91a7f659.png)
 
 # Forest Kingdom - Apes, A.R.C.
 
--  [Introducing Timeline Game](https://mirror.xyz/timelinegame.eth/3wykQQe79csgHOktbE_GHcJxp7b6hi3HnRApVCKLEV0)
+
 
 # Milady Village
 
--  [Collecting Timeline Game NFTs](https://mirror.xyz/timelinegame.eth/ijVRxIzcPQXhmo2rGMDCiHr694_mow4mgeWwv6Qumpc)
+
 
 # Network - Kali Labs
 
--  [Anatomy of a Timeline Game Card](https://mirror.xyz/timelinegame.eth/g9u95bvDZLJe3MEbDrtHjkR8eEmaT62kBMAFuPxg0YA)
+
 
 # Spirits + Elementals
 
--  [Playing Timeline Game: The Rules](https://mirror.xyz/timelinegame.eth/rBOs9kN25Jxc0VR1JhoZd8KLNS6UhBbC8zQ49zD5DWM)
+
 
 # The Coven
 
--  [Timeline Game: Special Edition](https://mirror.xyz/timelinegame.eth/LW8hHHnEm4eOU0uq33_YEM1IpvrEk8mxt58YBoaXlvE)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-10-17.md",
+                "file": "_wiki/Factions of Timeline Game.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-10-17.md",
+                "file": "_wiki/Factions of Timeline Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-10-17.md",
+                "file": "_wiki/Factions of Timeline Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-10-17.md"
+                "file": "_wiki/Factions of Timeline Game.md"
               }
             }
           },
@@ -190,12 +190,14 @@
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
     "_articles/Timeline Artist Black.md",
+    "_wiki/Factions of Timeline Game.md",
     "_daily/2023-10-17.md",
+    "_daily/Patch 1.1.md",
+    "_journal/Digital Collectibles Decklist.md",
     "_articles/Story of Timeline Game.md",
     "_articles/Timeline Artist MAC.md",
     "_articles/Timeline Artist Shiro.md",
     "_articles/Timeline Artist Krug.md",
-    "_daily/Patch 1.1.md",
     "_daily/2022-05-11.md",
     "_daily/2023-06-23.md",
     "_daily/2023-06-30.md",
@@ -213,8 +215,6 @@
     "_articles/archived/Jade post.md",
     "_articles/archived/Writing with Exocore Syntax.md",
     "_articles/archived/Configure Exocore for Personal Use.md",
-    "_articles/Mechanics of Timeline Game.md",
-    "_articles/How To Play Timeline Game.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
