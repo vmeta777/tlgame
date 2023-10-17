@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Story of Timeline Game.md",
+                "file": "_articles/Timeline Artist Black.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Story of Timeline Game.md",
+                "file": "_articles/Timeline Artist Black.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Story of Timeline Game.md",
+                "file": "_articles/Timeline Artist Black.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Story of Timeline Game.md"
+                "file": "_articles/Timeline Artist Black.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
+    "_articles/Story of Timeline Game.md",
     "_articles/Timeline Artist Black.md",
     "_articles/Timeline Artist MAC.md",
     "_articles/Timeline Artist Shiro.md",
@@ -206,7 +207,6 @@
     "_daily/2023-10-16.md",
     "index.md",
     "_articles/The Development of Timeline Game.md",
-    "_articles/Story of Timeline Game.md",
     "_articles/table test.md",
     "_articles/TEMPLATE.md",
     "_articles/archived/Set up a Custom Domain.md",
