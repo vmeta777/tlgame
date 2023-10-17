@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Story of Timeline Game.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Story of Timeline Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_articles/Story of Timeline Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_articles/Story of Timeline Game.md"
               }
             }
           },
@@ -189,18 +189,23 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
-    "_daily/2023-10-16.md",
+    "_articles/Timeline Artist Black.md",
+    "_articles/Timeline Artist MAC.md",
+    "_articles/Timeline Artist Shiro.md",
+    "_articles/Timeline Artist Krug.md",
+    "_daily/Patch 1.1.md",
     "_daily/2022-05-11.md",
+    "_daily/2023-10-17.md",
     "_daily/2023-06-23.md",
+    "_daily/2023-06-30.md",
     "_daily/2023-07-03.md",
     "_daily/2023-07-08.md",
     "_daily/2023-08-04.md",
     "_daily/2023-08-05.md",
     "_daily/2023-09-20.md",
-    "_articles/Timeline Artist Black.md",
+    "_daily/2023-10-16.md",
+    "index.md",
     "_articles/The Development of Timeline Game.md",
-    "_articles/Timeline Artist Krug.md",
-    "_articles/Timeline Artist MAC.md",
     "_articles/Story of Timeline Game.md",
     "_articles/table test.md",
     "_articles/TEMPLATE.md",
@@ -210,11 +215,6 @@
     "_articles/archived/Configure Exocore for Personal Use.md",
     "_articles/Mechanics of Timeline Game.md",
     "_articles/How To Play Timeline Game.md",
-    "_articles/Special Editions.md",
-    "_articles/Cultures.md",
-    "_daily/Patch 1.1.md",
-    "_daily/2023-06-30.md",
-    "_journal/Digital Collectibles Decklist.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
