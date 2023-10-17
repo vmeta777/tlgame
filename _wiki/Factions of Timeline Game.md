@@ -11,7 +11,11 @@ The world of Timeline Game, as we find it during the conflict depicted in the ga
 
 The Forest Kingdom faction initially was made up of talking Apes and Pandas with a primitive society, performing typical hunter-gatherer type functions. There was no real economy or advanced phenomena taking place. The alliance struck between Apes and Pandas combined the strength and structure of the Apes with the Panda's aptitude in the magical arts, and the Panda Mages became a steadily more integral part of the society. Over time, smaller creatures were accepted into the center of the Kingdom, cats, otters and the like, to serve unique roles.
 
-However, this balance has been upset when we find the Kingdom in Timeline Game. A faction known as "The Coven", which we will discuss in slightly more depth later, have introduced technology to the Apes. This technology creates great upheaval within the Apes society, in a much more severe way than technology has in contemporary society in the real world. While we grew in tandem with technological advances, the Apes of the Forest Kingdom find themselves confronted with the technological equivalent of going "zero-to-sixty", being granted a primitive internet access, electricity, and a basic form of AI which rapidly is becoming sentient and reshaping the Kingdom from the ground up.
+![](https://raw.seadn.io/files/cd7b3f68970ffd2d8b321f7f2d7e60cf.png)
+
+However, this balance has been upset when we find the Kingdom in Timeline Game. A faction known as "The Coven", which we will discuss in slightly more depth later, have introduced technology to the Apes. This technology creates great upheaval within the Apes society, in a much more severe way than technology has in contemporary society in the real world. While we grew in tandem with technological advances, the Apes of the Forest Kingdom find themselves confronted with the technological equivalent of going "zero-to-sixty", being granted a version of the internet, electricity, and a basic form of AI which rapidly is becoming sentient and reshaping the Kingdom from the ground up. 
+
+![](https://raw.seadn.io/files/8fbbd13d4f93077b61590ac01fc7cf09.png)
 
 # Milady Village
 
