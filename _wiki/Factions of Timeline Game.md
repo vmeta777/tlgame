@@ -17,7 +17,7 @@ However, this balance has been upset when we find the Kingdom in Timeline Game. 
 
 ![](https://raw.seadn.io/files/8fbbd13d4f93077b61590ac01fc7cf09.png)
 
-With these changes, the delicate balance of the world within and around the forest has been upset. Alliances that were fragile have become suspect at best, while different factions respond to the development of the Ape Kingdom. Even within the Ape Kingdom there are those alienated by these rapid changes, including the A.R.C., the Ape Resistance Coalition, who use whatever is at their disposal to fight back against what they see as alarming forces taking control of their home.
+With these changes, the calculus of the world within and around the forest has been changed. Alliances that were fragile have become suspect at best, while different factions respond to the development of the Ape Kingdom. Even within the Ape Kingdom there are those alienated by these rapid changes, including the A.R.C., the Ape Resistance Coalition, who use whatever is at their disposal to fight back against what they see as alarming forces taking control of their home.
 
 ![](https://raw.seadn.io/files/cab92fad71998eee6e66d5752282c7dc.png)
 
