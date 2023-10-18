@@ -3,7 +3,7 @@ date: 2023-06-25
 tags: writings, factions
 ---
 # Factions of Timeline Game
-The world of Timeline Game, as we find it during the conflict depicted in the game's cards and story, is at the precipice of a great conflict. For years a delicate balance has existed in a secluded part of the world, around a great forest. The "Forest Kingdom" is the name for the ruling faction in the forest, a contemporary name for the modern form of the Kingdom which was once known best as the Kingdom of the Long Sun. This Kingdom, ruled by Apes in a militaristic, ancient form for centuries, is in flux when we find them in Timeline Game.
+The world of Timeline Game, as we find it during the conflict depicted in the game's cards and story, is at the precipice of a great conflict. For years a delicate balance has existed in a secluded part of the world, around a great forest. The "Forest Kingdom" is the name for the ruling faction in the forest, a contemporary name for the modern form of the Kingdom which was once known best as the Kingdom of the Long Sun. This Kingdom, ruled by Apes in a militaristic, ancient form for centuries, is in flux when we find them in Timeline Game. This wiki post gives a brief introduction to each faction.
 
 ![](https://raw.seadn.io/files/4a3ea135360c72ec5ba8054b91a7f659.png)
 
@@ -23,7 +23,7 @@ With these events, the calculus of the world within and around the forest has be
 
 # Milady Village
 
-
+Milady Village, in Timeline Game, is a decently-sized village just outside of the Forest that the Apes and others call home. The Miladys and the Apes have maintained a strained relationship and generally keep to themselves. However, with the changes in the Forest Kingdom, the Apes have begun to expand aggressively and in doing so threaten the peace between the two factions. The Miladys have long 'adopted' some creatures, including Otters and 
 
 # Network - Kali Labs
 
