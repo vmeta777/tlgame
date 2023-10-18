@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_wiki/Factions of Timeline Game.md",
+                "file": "_articles/Timeline Game - Rare Pepes.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_wiki/Factions of Timeline Game.md",
+                "file": "_articles/Timeline Game - Rare Pepes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_wiki/Factions of Timeline Game.md",
+                "file": "_articles/Timeline Game - Rare Pepes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_wiki/Factions of Timeline Game.md"
+                "file": "_articles/Timeline Game - Rare Pepes.md"
               }
             }
           },
@@ -189,13 +189,16 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
+    "_articles/How To Play Timeline Game.md",
+    "_articles/Timeline Game - Rare Pepes.md",
+    "_articles/Mechanics of Timeline Game.md",
+    "_wiki/Factions of Timeline Game.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2022-05-11.md",
     "_daily/2023-10-17.md",
     "_daily/2023-10-18.md",
     "_daily/Patch 1.1.md",
     "_articles/Rare Pepes.md",
-    "_wiki/Factions of Timeline Game.md",
     "_articles/Timeline Artist Black.md",
     "_journal/Digital Collectibles Decklist.md",
     "_articles/Story of Timeline Game.md",
@@ -212,9 +215,6 @@
     "_daily/2023-10-16.md",
     "index.md",
     "_articles/The Development of Timeline Game.md",
-    "_articles/table test.md",
-    "_articles/TEMPLATE.md",
-    "_articles/archived/Set up a Custom Domain.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
