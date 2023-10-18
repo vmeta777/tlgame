@@ -35,4 +35,4 @@ The Spirits and its related Elemental faction are ancient primordial spirits whi
 
 # The Coven
 
-The Coven is the smallest faction in Timeline Game. Little is known about the mysterious Coven, who are believed to be witches that train and study magic within the Forest Kingdom. It is known that some rebellious members of the Coven escaped to a distant land where they learned about technology and brought these advances to the leaders of the Forest Kingdom.
+The Coven is the smallest faction in Timeline Game. Little is known about the mysterious Coven, who are believed to be witches that train and study magic within the Forest Kingdom. What is known is that some rebellious members of the Coven escaped to a distant land where they were exposed to advanced technology and brought what they had discovered to the leaders of the Forest Kingdom, kicking off the entire conflict facing us in Timeline Game.
