@@ -49,4 +49,4 @@ The Coven is the smallest faction in Timeline Game. Little is known about the my
 
 # The Royals
 
-The Royal faction is conspicuously absent in Timeline Game, though alluded to by some cards, namely Remilio, Royal Knight and Fairy Princess Pite. Like Network, the Royal faction was originally intended to be a larger faction, and was stripped from the original set for the purpose of maintaining cohesion. Whether we learn more about this faction and their role in the Timeline world in the future remains to be seen.
+The Royal faction is conspicuously absent in Timeline Game, though alluded to by some cards, namely Remilio, Royal Knight, Lumomancer Initiate and Fairy Princess Pite. Like Network, the Royal faction was originally intended to be a larger faction, and was stripped from the original set for the purpose of maintaining cohesion. Whether we learn more about this faction and their role in the Timeline world in the future remains to be seen.
