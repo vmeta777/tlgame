@@ -42,6 +42,11 @@ The Miladys have long 'adopted' some creatures from the forest and surrounding a
 The Spirits and its related Elemental faction are ancient primordial spirits which exist within the world of Timeline Game. The Spirits are generally aligned with the Milady faction, as there are numerous synergies - namely the Elemental Miladys, which require a Milady to fuse with a spirit of a corresponding element to manifest. Flame spirits are a major element of Timeline Game, they represent loosely the spirit of conflict which is breaking out in the world, and thus are very strong. Everything from "Ember" to "Flame Avatar" and the mythical Volcanic avatar (Rå) Vulkanrå embody the Flame element within Timeline Game.
 
 ![](https://raw.seadn.io/files/8e8768dfab0c130bdf8ee84b2367c28e.png)
+
 # The Coven
 
 The Coven is the smallest faction in Timeline Game. Little is known about the mysterious Coven, who are believed to be witches that train and study magic within the Forest Kingdom. What is known is that some rebellious members of the Coven escaped to a distant land where they were exposed to advanced technology and brought what they had discovered to the leaders of the Forest Kingdom, kicking off the entire conflict facing us in Timeline Game.
+
+# The Royals
+
+The Royal faction is conspicuously absent in Timeline Game, though alluded to by some cards, namely Remilio, Royal Knight and Fairy Princess Pite. Like Network, the Royal faction was originally intended to be a larger faction, and was stripped from the original set for the purpose of maintaining cohesion. Whether we learn more about this faction and their role in the Timeline world in the future remains to be seen.
