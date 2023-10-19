@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Timeline Game - Special Edition.md",
+                "file": "_articles/Notes on Game Design.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Timeline Game - Special Edition.md",
+                "file": "_articles/Notes on Game Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Timeline Game - Special Edition.md",
+                "file": "_articles/Notes on Game Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Timeline Game - Special Edition.md"
+                "file": "_articles/Notes on Game Design.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
-    "_articles/Timeline Game - Grifters Edition.md",
     "_articles/Timeline Game - Special Edition.md",
+    "_articles/Timeline Game - Grifters Edition.md",
     "_articles/Timeline Game - Rare Pepes.md",
     "_articles/Timeline Artist Shiro.md",
     "_articles/The Development of Timeline Game.md",

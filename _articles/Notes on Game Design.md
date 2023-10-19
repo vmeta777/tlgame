@@ -72,7 +72,7 @@ This allows a player to reach beyond the "five posts per turn" limit at their ow
 
 Quill Tokens can therefore be hoarded as a means of keeping tokens and their corresponding effect away from their opponent - by not using them, they are not returned to the pool. Should the pool return to zero, and a player chooses to use four of their tokens (thereby returning them to the pool), upon the next turn it is very likely their opponent will quickly gain possession of all four tokens. It is a type of game within the game which, while relatively simple, can easily decide the outcome of a match and demands attention.
 
-The aim of Timeline Game, and in particular the initial release, was to create an enjoyable foundation of a card game which is engaging and complex, but also simple enough for a beginner to grasp within fifteen-to-thirty minutes of playing. By removing the land system and its corresponding pain points (mana screw/flooding, for example), as well as the color wheel, there are less things for a player to learn, while the Quill system is a simple addition that creates a unique gameplay loop that is foreign to Magic the Gathering and other influences.
+The aim of Timeline Game, and in particular the initial release, was to create an enjoyable foundation of a card game which is engaging and complex, but also simple enough for a beginner to grasp within fifteen-to-thirty minutes of playing. By removing the land system and its corresponding pain points (mana screw/flooding, for example), as well as the color wheel, there are less things for a player to learn, while the Quill system is a simple addition that creates a unique gameplay loop which is foreign to Magic the Gathering and other influences.
 
 ### Other Influences from Magic the Gathering
 
