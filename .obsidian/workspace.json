@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_wiki/The Different Editions of Timeline Game.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_wiki/The Different Editions of Timeline Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Notes on Game Design.md",
+                "file": "_wiki/The Different Editions of Timeline Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Notes on Game Design.md"
+                "file": "_wiki/The Different Editions of Timeline Game.md"
               }
             }
           },
@@ -189,9 +189,12 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
-    "_articles/Timeline Game - Special Edition.md",
-    "_articles/Timeline Game - Grifters Edition.md",
+    "_wiki/Factions of Timeline Game.md",
+    "_wiki/The Different Editions of Timeline Game.md",
     "_articles/Timeline Game - Rare Pepes.md",
+    "_articles/Timeline Game - Grifters Edition.md",
+    "_articles/Timeline Game - Special Edition.md",
+    "_articles/Notes on Game Design.md",
     "_articles/Timeline Artist Shiro.md",
     "_articles/The Development of Timeline Game.md",
     "_articles/TEMPLATE.md",
@@ -199,7 +202,6 @@
     "_articles/Timeline Artist MAC.md",
     "_articles/How To Play Timeline Game.md",
     "_articles/Mechanics of Timeline Game.md",
-    "_wiki/Factions of Timeline Game.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2022-05-11.md",
     "_daily/2023-10-17.md",
@@ -213,8 +215,6 @@
     "_daily/2023-06-30.md",
     "_daily/2023-07-03.md",
     "_daily/2023-07-08.md",
-    "_daily/2023-08-04.md",
-    "_daily/2023-08-05.md",
     "_site/assets/imgs/card.png",
     "assets/imgs/card.png",
     "_site/assets/imgs/born to post.png",
