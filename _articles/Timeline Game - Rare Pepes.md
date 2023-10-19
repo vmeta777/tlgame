@@ -15,6 +15,6 @@ The Rare Pepes collection includes throwbacks to Pepe "derivative" characters su
 ![](https://pbs.twimg.com/media/Fv9wq2MWcAIKpaD?format=jpg&name=4096x4096)
 ![](https://pbs.twimg.com/media/Fv9w1OoWcAo7gVy?format=jpg&name=4096x4096)
 
-The set adds a new Pepe archetype and support line for Timeline Game as a playable game, while also calling back to an era on crypto twitter that won't be forgotten anytime soon. It includes clay art + AI renditions of painted Pepes in the style of Picasso, Francis Bacon and more.
+The set adds a new Pepe archetype and support line for Timeline Game as a playable game, while also calling back to an era on crypto twitter that won't be forgotten anytime soon. It includes clay art, digital illustrations + AI renditions of painted Pepes in the style of Picasso, Francis Bacon and more.
 
 [You can view the Rare Pepes collection on OpenSea here.](https://opensea.io/collection/tlg-rare-pepes)
