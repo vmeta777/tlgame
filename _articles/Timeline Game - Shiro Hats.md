@@ -8,7 +8,9 @@ published: true
 # Timeline Game - Shiro Hats
 The Timeline Game Special Edition "Shiro Hats" set is an edition of three cards (with one bonus variant) by [Timeline artist Shiro](https://timelinegame.net/articles/timeline-artist-shiro), in her "Oh, I see" style. Each are an "Outfit" type card, which, in game, are attached to another card to give them combat strength and utility. 
 
-The first card to be released was the Mog Hat, which reaches back to an ancient era of the timeline; Gaia Online, one of the precursor social networks/forums which also innovated on digital collectibles, including their "OMG" and "AFK" hats, pictured below, which we used for inspiration.
+![](https://raw.seadn.io/files/6a6ed730db6b5a013700d3b73d0577b5.png)
+
+The first card to be released is the Mog Hat, which reaches back to an ancient era of the timeline; Gaia Online, one of the precursor social networks/forums which also innovated on digital collectibles, particularly with their "OMG" and "AFK" hats, pictured below, which we used for inspiration.
 
 ![](https://pbs.twimg.com/media/FvTPvZ5WABwf8yk?format=png&name=360x360)
 
