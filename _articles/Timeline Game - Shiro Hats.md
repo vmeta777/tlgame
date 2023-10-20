@@ -16,7 +16,7 @@ The first card to be released is the Mog Hat, which reaches back to an ancient e
 
 The OMG Hat was one of the first Donation Items on Gaia, released in November 2003 (!!) - each month, if you donated to Gaia, they would give you a "Thank You Letter" item in your inventory, which could be opened to redeem one of two items. They could be equipped or sold. Both hats have been in high demand since their inception. Our take on the hats for Timeline Game are a nod to this period of collecting and communicating on the internet.
 
-Burn-redeem pages to mint each card:
+Burn-redeem links for minting each card:
 [Mog Hat](https://app.manifold.xyz/br/mog-hat)
 [Luna Hat](https://app.manifold.xyz/br/luna-hat)
 [UwU Hat](https://app.manifold.xyz/br/UwU-Hat)
