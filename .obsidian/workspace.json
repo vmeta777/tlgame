@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_daily/Patch 1.1.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_daily/Patch 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_daily/Patch 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_daily/Patch 1.1.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
+    "index.md",
     "ring.md",
     "readme.md",
     "exocore/_templates/_wiki.md",
@@ -206,7 +207,6 @@
     "assets/favicon/favicon.png",
     "assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon-32x32.png",
-    "index.md",
     "_articles/Timeline Game - Shiro Hats.md",
     "_wiki/Factions of Timeline Game.md",
     "_daily/Patch 1.1.md",
