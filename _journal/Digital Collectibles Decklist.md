@@ -27,21 +27,21 @@ The deck could choose to make NFTs more of a sub-theme and become a more Ape-the
 
 ### Decklist
 
-Hyper Rare Card: 1x Mog Hat
+Hyper Rare Card: 1x Mog Hat<br>
 
-2x Alpha Group
-3x Ape Mfer
-3x Ape NFT Trader
-3x Apeguard Sentry
-2x Bored Moonbird
-2x Delete
-3x Da Swamp House
-2x Diamond-Handed Ape
-1x Eye Knight NFT
-3x Influencer King of the Apes
-3x Milady 2000
-2x Milady 502
-2x Radbro
-2x Times Square
-1x Presidential NFT
-2x Water Milily 157
+2x Alpha Group<br>  
+3x Ape Mfer<br>  
+3x Ape NFT Trader<br>  
+3x Apeguard Sentry<br>  
+2x Bored Moonbird<br>  
+2x Delete<br>
+3x Da Swamp House<br>  
+2x Diamond-Handed Ape<br>
+1x Eye Knight NFT<br>
+3x Influencer King of the Apes<br>
+3x Milady 2000<br>
+2x Milady 502<br>
+2x Radbro<br>
+2x Times Square<br>
+1x Presidential NFT<br>
+2x Water Milily 157<br>
