@@ -23,9 +23,11 @@
             "id": "f079be53b94fb6b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png"
+                "file": "_articles/Timeline Game - Shiro Hats.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png",
+                "file": "_articles/Timeline Game - Shiro Hats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png",
+                "file": "_articles/Timeline Game - Shiro Hats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/icons/Windows-95.png"
+                "file": "_articles/Timeline Game - Shiro Hats.md"
               }
             }
           },
@@ -185,8 +187,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e509f202f4abd033",
+  "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
+    "assets/imgs/icons/Windows-95.png",
     "assets/imgs/icons/wiki.png",
     "assets/imgs/icons/pp,840x830-pad,1000x1000,f8f8f8.png",
     "assets/imgs/icons/journal.png",
@@ -197,7 +200,6 @@
     "assets/imgs/icons/daily.gif",
     "assets/imgs/icons/articles.png",
     "assets/imgs/bg-vellum.jpg",
-    "assets/imgs/bg-article-vellum.jpg",
     "_daily/Patch 1.1.md",
     "index.md",
     "ring.md",
