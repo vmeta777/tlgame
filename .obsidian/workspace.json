@@ -23,11 +23,9 @@
             "id": "f079be53b94fb6b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md",
-                "mode": "source",
-                "source": true
+                "file": "assets/imgs/bg-article-vellum.jpg"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md",
+                "file": "assets/imgs/bg-article-vellum.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md",
+                "file": "assets/imgs/bg-article-vellum.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Digital Collectibles Decklist.md"
+                "file": "assets/imgs/bg-article-vellum.jpg"
               }
             }
           },
@@ -189,11 +187,26 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
+    "assets/imgs/bg-vellum.jpg",
+    "assets/imgs/bg-yotsuba.gif",
+    "assets/imgs/pfp.png",
+    "assets/imgs/card.png",
+    "assets/favicon/android-chrome-512x512.png",
+    "assets/favicon/apple-touch-icon.png",
+    "assets/favicon/favicon.png",
+    "assets/favicon/favicon-16x16.png",
+    "assets/favicon/favicon-32x32.png",
+    "_site/assets/imgs/pfp.png",
+    "_site/assets/imgs/card.png",
+    "index.md",
+    "ring.md",
+    "_articles/Timeline Game - Shiro Hats.md",
+    "_wiki/Factions of Timeline Game.md",
+    "_daily/Patch 1.1.md",
+    "_journal/Digital Collectibles Decklist.md",
     "_articles/Timeline Game - Grifters Edition.md",
     "_articles/Timeline Game - Rare Pepes.md",
-    "_articles/Timeline Game - Shiro Hats.md",
     "_articles/Timeline Game - Special Edition.md",
-    "_journal/Digital Collectibles Decklist.md",
     "_daily/2022-05-11.md",
     "_daily/2023-10-19.md",
     "_daily/2023-10-20.md",
@@ -202,7 +215,6 @@
     "_articles/table test.md",
     "_articles/Story of Timeline Game.md",
     "_articles/Special Editions.md",
-    "_wiki/Factions of Timeline Game.md",
     "_wiki/The Different Editions of Timeline Game.md",
     "_articles/Notes on Game Design.md",
     "_articles/Timeline Artist Shiro.md",
@@ -211,21 +223,7 @@
     "_articles/Timeline Artist Krug.md",
     "_articles/Timeline Artist MAC.md",
     "_articles/How To Play Timeline Game.md",
-    "_articles/Mechanics of Timeline Game.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
-    "_daily/2023-10-17.md",
-    "_daily/2023-10-18.md",
-    "_site/assets/imgs/card.png",
-    "assets/imgs/card.png",
-    "_site/assets/imgs/born to post.png",
-    "assets/imgs/born to post.png",
     "_articles/archived",
-    "_site/assets/favicon/favicon-16x16.png",
-    "assets/favicon/favicon.png",
-    "_site/assets/favicon/apple-touch-icon.png",
-    "_site/assets/favicon/New folder/apple-touch-icon.png",
-    "_site/assets/favicon/New folder/android-chrome-192x192.png",
-    "_site/assets/favicon/android-chrome-512x512 - Copy.png",
     "_site/assets/favicon/New folder/favicon.ico",
     "_site/assets/favicon/New folder"
   ]

@@ -47,6 +47,8 @@ The Spirits and its related Elemental faction are ancient primordial spirits whi
 
 The Coven is the smallest faction in Timeline Game. Little is known about the mysterious Coven, who are believed to be witches that train and study magic within the Forest Kingdom. What is known is that some rebellious members of the Coven escaped to a distant land where they were exposed to advanced technology and brought what they had discovered to the leaders of the Forest Kingdom, kicking off the entire conflict facing us in Timeline Game.
 
+![](https://raw.seadn.io/files/4acb50e979789315308124b3c0ae3547.png)
+
 # The Royals
 
 The Royal faction is conspicuously absent in Timeline Game, though alluded to by some cards, namely Remilio, Royal Knight, Lumomancer Initiate and Fairy Princess Pite. Like Network, the Royal faction was originally intended to be a larger faction, and was stripped from the original set for the purpose of maintaining cohesion. Whether we learn more about this faction and their role in the Timeline world in the future remains to be seen.
