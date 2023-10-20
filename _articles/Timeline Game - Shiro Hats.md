@@ -1,15 +1,21 @@
 ---
-subtitle: The Bonus Collection for Timeline Game
-date: 2023-10-18
-tags: rarepepes timeline expansion
+subtitle: Adornments for the modern Avatar
+date: 2023-10-20
+tags: shiro timeline hats
 published: true
 ---
 
 # Timeline Game - Shiro Hats
-The Timeline Game Special Editions are a collection of limited release cards for collectors of Timeline Game's original release, which can be claimed through a variety of methods, varying for each individual Special Edition. Some are burn-redeems, requiring an original Timeline Game card to be burned, others are free mints for holders of Timeline Game or simply holders of specific cards. There are the NFTNYC and REMICON Japan set of cards, which celebrate the week in April not long after Timeline Game minted, featuring in large part environment cards which effect the entire board and reflect the environments that these events took place in. This set also includes other one-off cards such as Samurai Ottie, a variant on the original "Ottie" as well as the special "Shiro Hat" cards, two of which will be released later this month.
+The Timeline Game Special Edition "Shiro Hats" set is an edition of three cards (with one bonus variant) by [Timeline artist Shiro](https://timelinegame.net/articles/timeline-artist-shiro), in her "Oh, I see" style. Each are an "Outfit" type card, which, in game, are attached to another card to give them combat strength and utility. 
 
-![](https://raw.seadn.io/files/31d8216acd8341a4160db5ea60b7bc2e.png)
-![](https://raw.seadn.io/files/6a6ed730db6b5a013700d3b73d0577b5.png)
+The first card to be released was the Mog Hat, which reaches back to an ancient era of the timeline; Gaia Online, one of the precursor social networks/forums which also innovated on digital collectibles, including their "OMG" and "AFK" hats, pictured below, which we used for inspiration.
+
+![](https://pbs.twimg.com/media/FvTPvZ5WABwf8yk?format=png&name=360x360)
+
+The OMG Hat was one of the first Donation Items on Gaia, released in November 2003 (!!) - each month, if you donated to Gaia, they would give you a "Thank You Letter" item in your inventory, which could be opened to redeem one of two items. They could be equipped or sold. Both hats have been in high demand since their inception. Our take on the hats for Timeline Game are a nod to this period of collecting and communicating on the internet.
+
+![](https://raw.seadn.io/files/4b36a462e37aafcb978d7614338d00a9.png)
+![](https://raw.seadn.io/files/ce9a5c24fc0f9372a91b24baae6d5f53.png)
 
 
-[You can view the Special Edition collection on OpenSea here.](https://opensea.io/collection/tlgame-se)
+[You can view the Shiro Hats within our Special Edition collection on OpenSea here.](https://opensea.io/collection/tlgame-se?search[stringTraits][0][name]=Set&search[stringTraits][0][values][0]=Shiro%20Hats&search[sortAscending]=true&search[sortBy]=UNIT_PRICE)
