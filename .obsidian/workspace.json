@@ -23,9 +23,11 @@
             "id": "f079be53b94fb6b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/bg-article-vellum.jpg"
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/bg-article-vellum.jpg",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/bg-article-vellum.jpg",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/imgs/bg-article-vellum.jpg"
+                "file": "index.md"
               }
             }
           },
@@ -187,6 +189,14 @@
   },
   "active": "f079be53b94fb6b6",
   "lastOpenFiles": [
+    "ring.md",
+    "readme.md",
+    "exocore/_templates/_wiki.md",
+    "exocore/_templates/_scrapbook.md",
+    "exocore/_templates/_journal.md",
+    "exocore/_templates/_daily.md",
+    "exocore/_templates/_article.md",
+    "assets/imgs/bg-article-vellum.jpg",
     "assets/imgs/bg-vellum.jpg",
     "assets/imgs/bg-yotsuba.gif",
     "assets/imgs/pfp.png",
@@ -196,10 +206,7 @@
     "assets/favicon/favicon.png",
     "assets/favicon/favicon-16x16.png",
     "assets/favicon/favicon-32x32.png",
-    "_site/assets/imgs/pfp.png",
-    "_site/assets/imgs/card.png",
     "index.md",
-    "ring.md",
     "_articles/Timeline Game - Shiro Hats.md",
     "_wiki/Factions of Timeline Game.md",
     "_daily/Patch 1.1.md",
@@ -218,11 +225,6 @@
     "_wiki/The Different Editions of Timeline Game.md",
     "_articles/Notes on Game Design.md",
     "_articles/Timeline Artist Shiro.md",
-    "_articles/The Development of Timeline Game.md",
-    "_articles/TEMPLATE.md",
-    "_articles/Timeline Artist Krug.md",
-    "_articles/Timeline Artist MAC.md",
-    "_articles/How To Play Timeline Game.md",
     "_articles/archived",
     "_site/assets/favicon/New folder/favicon.ico",
     "_site/assets/favicon/New folder"
